@@ -1,0 +1,3038 @@
+Info: [VCS_SAVE_RESTORE_INFO] ASLR (Address Space Layout Randomization) is detected on the machine. To enable $save functionality, ASLR will be switched off and simv re-executed.
+Please use '-no_save' simv switch to avoid re-execution or '-suppress=ASLR_DETECTED_INFO' to suppress this message.
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version V-2023.12; Runtime version V-2023.12;  Mar 15 13:48 2024
+input A will be x at time                    5
+input B will be x at time                    5
+input Enable will be x at time                    5
+input A will be x at time                   15
+input B will be x at time                   15
+input Enable will be x at time                   15
+output will be 0 at time                   15
+output enable  will be 0 at time                   15
+test case passed for A=0, B=0, output is 0 and enable output is 0 at time                   15
+input A will be 0 at time                   25
+input B will be 1 at time                   25
+input Enable will be 0 at time                   25
+output will be 0 at time                   25
+output enable  will be 0 at time                   25
+test case passed for A=0, B=0, output is 0 and enable output is 0 at time                   25
+input A will be 1 at time                   35
+input B will be 3 at time                   35
+input Enable will be 0 at time                   35
+output will be 0 at time                   35
+output enable  will be 0 at time                   35
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                   35
+input A will be 1 at time                   45
+input B will be 1 at time                   45
+input Enable will be 0 at time                   45
+output will be 0 at time                   45
+output enable  will be 0 at time                   45
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                   45
+input A will be 1 at time                   55
+input B will be 2 at time                   55
+input Enable will be 1 at time                   55
+output will be 0 at time                   55
+output enable  will be 0 at time                   55
+test case passed for A=1, B=1, output is 0 and enable output is 0 at time                   55
+input A will be 1 at time                   65
+input B will be 1 at time                   65
+input Enable will be 1 at time                   65
+output will be 3 at time                   65
+output enable  will be 1 at time                   65
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                   65
+input A will be 2 at time                   75
+input B will be 1 at time                   75
+input Enable will be 1 at time                   75
+output will be 2 at time                   75
+output enable  will be 1 at time                   75
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                   75
+input A will be 1 at time                   85
+input B will be 0 at time                   85
+input Enable will be 1 at time                   85
+output will be 3 at time                   85
+output enable  will be 1 at time                   85
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                   85
+input A will be 1 at time                   95
+input B will be 2 at time                   95
+input Enable will be 1 at time                   95
+output will be 1 at time                   95
+output enable  will be 1 at time                   95
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                   95
+input A will be 1 at time                  105
+input B will be 2 at time                  105
+input Enable will be 1 at time                  105
+output will be 3 at time                  105
+output enable  will be 1 at time                  105
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                  105
+input A will be 1 at time                  115
+input B will be 3 at time                  115
+input Enable will be 1 at time                  115
+output will be 3 at time                  115
+output enable  will be 1 at time                  115
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                  115
+input A will be 2 at time                  125
+input B will be 3 at time                  125
+input Enable will be 1 at time                  125
+output will be 4 at time                  125
+output enable  will be 1 at time                  125
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  125
+input A will be 2 at time                  135
+input B will be 2 at time                  135
+input Enable will be 1 at time                  135
+output will be 5 at time                  135
+output enable  will be 1 at time                  135
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                  135
+input A will be 0 at time                  145
+input B will be 1 at time                  145
+input Enable will be 1 at time                  145
+output will be 4 at time                  145
+output enable  will be 1 at time                  145
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  145
+input A will be 0 at time                  155
+input B will be 1 at time                  155
+input Enable will be 1 at time                  155
+output will be 1 at time                  155
+output enable  will be 1 at time                  155
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                  155
+input A will be 1 at time                  165
+input B will be 1 at time                  165
+input Enable will be 1 at time                  165
+output will be 1 at time                  165
+output enable  will be 1 at time                  165
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                  165
+input A will be 3 at time                  175
+input B will be 2 at time                  175
+input Enable will be 1 at time                  175
+output will be 2 at time                  175
+output enable  will be 1 at time                  175
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                  175
+input A will be 0 at time                  185
+input B will be 0 at time                  185
+input Enable will be 1 at time                  185
+output will be 5 at time                  185
+output enable  will be 1 at time                  185
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  185
+input A will be 2 at time                  195
+input B will be 1 at time                  195
+input Enable will be 1 at time                  195
+output will be 0 at time                  195
+output enable  will be 1 at time                  195
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                  195
+input A will be 2 at time                  205
+input B will be 3 at time                  205
+input Enable will be 1 at time                  205
+output will be 3 at time                  205
+output enable  will be 1 at time                  205
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                  205
+input A will be 1 at time                  215
+input B will be 3 at time                  215
+input Enable will be 1 at time                  215
+output will be 5 at time                  215
+output enable  will be 1 at time                  215
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                  215
+input A will be 3 at time                  225
+input B will be 1 at time                  225
+input Enable will be 1 at time                  225
+output will be 4 at time                  225
+output enable  will be 1 at time                  225
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  225
+input A will be 2 at time                  235
+input B will be 2 at time                  235
+input Enable will be 1 at time                  235
+output will be 4 at time                  235
+output enable  will be 1 at time                  235
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  235
+input A will be 1 at time                  245
+input B will be 3 at time                  245
+input Enable will be 1 at time                  245
+output will be 4 at time                  245
+output enable  will be 1 at time                  245
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  245
+input A will be 3 at time                  255
+input B will be 2 at time                  255
+input Enable will be 1 at time                  255
+output will be 4 at time                  255
+output enable  will be 1 at time                  255
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  255
+input A will be 2 at time                  265
+input B will be 0 at time                  265
+input Enable will be 1 at time                  265
+output will be 5 at time                  265
+output enable  will be 1 at time                  265
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  265
+input A will be 2 at time                  275
+input B will be 2 at time                  275
+input Enable will be 1 at time                  275
+output will be 2 at time                  275
+output enable  will be 1 at time                  275
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  275
+input A will be 1 at time                  285
+input B will be 0 at time                  285
+input Enable will be 1 at time                  285
+output will be 4 at time                  285
+output enable  will be 1 at time                  285
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  285
+input A will be 0 at time                  295
+input B will be 1 at time                  295
+input Enable will be 1 at time                  295
+output will be 1 at time                  295
+output enable  will be 1 at time                  295
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                  295
+input A will be 3 at time                  305
+input B will be 2 at time                  305
+input Enable will be 1 at time                  305
+output will be 1 at time                  305
+output enable  will be 1 at time                  305
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                  305
+input A will be 2 at time                  315
+input B will be 2 at time                  315
+input Enable will be 1 at time                  315
+output will be 5 at time                  315
+output enable  will be 1 at time                  315
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  315
+input A will be 0 at time                  325
+input B will be 2 at time                  325
+input Enable will be 1 at time                  325
+output will be 4 at time                  325
+output enable  will be 1 at time                  325
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  325
+input A will be 3 at time                  335
+input B will be 1 at time                  335
+input Enable will be 1 at time                  335
+output will be 2 at time                  335
+output enable  will be 1 at time                  335
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                  335
+input A will be 1 at time                  345
+input B will be 3 at time                  345
+input Enable will be 1 at time                  345
+output will be 4 at time                  345
+output enable  will be 1 at time                  345
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  345
+input A will be 3 at time                  355
+input B will be 2 at time                  355
+input Enable will be 1 at time                  355
+output will be 4 at time                  355
+output enable  will be 1 at time                  355
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  355
+input A will be 2 at time                  365
+input B will be 1 at time                  365
+input Enable will be 1 at time                  365
+output will be 5 at time                  365
+output enable  will be 1 at time                  365
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  365
+input A will be 1 at time                  375
+input B will be 1 at time                  375
+input Enable will be 1 at time                  375
+output will be 3 at time                  375
+output enable  will be 1 at time                  375
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                  375
+input A will be 2 at time                  385
+input B will be 0 at time                  385
+input Enable will be 1 at time                  385
+output will be 2 at time                  385
+output enable  will be 1 at time                  385
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                  385
+input A will be 3 at time                  395
+input B will be 3 at time                  395
+input Enable will be 1 at time                  395
+output will be 2 at time                  395
+output enable  will be 1 at time                  395
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  395
+input A will be 0 at time                  405
+input B will be 3 at time                  405
+input Enable will be 1 at time                  405
+output will be 6 at time                  405
+output enable  will be 1 at time                  405
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                  405
+input A will be 3 at time                  415
+input B will be 0 at time                  415
+input Enable will be 1 at time                  415
+output will be 3 at time                  415
+output enable  will be 1 at time                  415
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                  415
+input A will be 3 at time                  425
+input B will be 1 at time                  425
+input Enable will be 1 at time                  425
+output will be 3 at time                  425
+output enable  will be 1 at time                  425
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                  425
+input A will be 1 at time                  435
+input B will be 0 at time                  435
+input Enable will be 1 at time                  435
+output will be 4 at time                  435
+output enable  will be 1 at time                  435
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  435
+input A will be 3 at time                  445
+input B will be 1 at time                  445
+input Enable will be 1 at time                  445
+output will be 1 at time                  445
+output enable  will be 1 at time                  445
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                  445
+input A will be 2 at time                  455
+input B will be 0 at time                  455
+input Enable will be 1 at time                  455
+output will be 4 at time                  455
+output enable  will be 1 at time                  455
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  455
+input A will be 2 at time                  465
+input B will be 0 at time                  465
+input Enable will be 1 at time                  465
+output will be 2 at time                  465
+output enable  will be 1 at time                  465
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  465
+input A will be 3 at time                  475
+input B will be 1 at time                  475
+input Enable will be 1 at time                  475
+output will be 2 at time                  475
+output enable  will be 1 at time                  475
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  475
+input A will be 2 at time                  485
+input B will be 2 at time                  485
+input Enable will be 1 at time                  485
+output will be 4 at time                  485
+output enable  will be 1 at time                  485
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  485
+input A will be 1 at time                  495
+input B will be 1 at time                  495
+input Enable will be 1 at time                  495
+output will be 4 at time                  495
+output enable  will be 1 at time                  495
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  495
+input A will be 3 at time                  505
+input B will be 3 at time                  505
+input Enable will be 1 at time                  505
+output will be 2 at time                  505
+output enable  will be 1 at time                  505
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                  505
+input A will be 1 at time                  515
+input B will be 0 at time                  515
+input Enable will be 1 at time                  515
+output will be 6 at time                  515
+output enable  will be 1 at time                  515
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                  515
+input A will be 3 at time                  525
+input B will be 1 at time                  525
+input Enable will be 1 at time                  525
+output will be 1 at time                  525
+output enable  will be 1 at time                  525
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                  525
+input A will be 3 at time                  535
+input B will be 2 at time                  535
+input Enable will be 1 at time                  535
+output will be 4 at time                  535
+output enable  will be 1 at time                  535
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  535
+input A will be 0 at time                  545
+input B will be 2 at time                  545
+input Enable will be 1 at time                  545
+output will be 5 at time                  545
+output enable  will be 1 at time                  545
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  545
+input A will be 2 at time                  555
+input B will be 0 at time                  555
+input Enable will be 1 at time                  555
+output will be 2 at time                  555
+output enable  will be 1 at time                  555
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                  555
+input A will be 2 at time                  565
+input B will be 2 at time                  565
+input Enable will be 1 at time                  565
+output will be 2 at time                  565
+output enable  will be 1 at time                  565
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  565
+input A will be 3 at time                  575
+input B will be 3 at time                  575
+input Enable will be 1 at time                  575
+output will be 4 at time                  575
+output enable  will be 1 at time                  575
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  575
+input A will be 3 at time                  585
+input B will be 3 at time                  585
+input Enable will be 1 at time                  585
+output will be 6 at time                  585
+output enable  will be 1 at time                  585
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                  585
+input A will be 3 at time                  595
+input B will be 0 at time                  595
+input Enable will be 1 at time                  595
+output will be 6 at time                  595
+output enable  will be 1 at time                  595
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                  595
+input A will be 3 at time                  605
+input B will be 3 at time                  605
+input Enable will be 1 at time                  605
+output will be 3 at time                  605
+output enable  will be 1 at time                  605
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                  605
+input A will be 2 at time                  615
+input B will be 2 at time                  615
+input Enable will be 1 at time                  615
+output will be 6 at time                  615
+output enable  will be 1 at time                  615
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                  615
+input A will be 1 at time                  625
+input B will be 1 at time                  625
+input Enable will be 1 at time                  625
+output will be 4 at time                  625
+output enable  will be 1 at time                  625
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  625
+input A will be 2 at time                  635
+input B will be 1 at time                  635
+input Enable will be 1 at time                  635
+output will be 2 at time                  635
+output enable  will be 1 at time                  635
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                  635
+input A will be 1 at time                  645
+input B will be 3 at time                  645
+input Enable will be 1 at time                  645
+output will be 3 at time                  645
+output enable  will be 1 at time                  645
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                  645
+input A will be 1 at time                  655
+input B will be 0 at time                  655
+input Enable will be 1 at time                  655
+output will be 4 at time                  655
+output enable  will be 1 at time                  655
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  655
+input A will be 0 at time                  665
+input B will be 2 at time                  665
+input Enable will be 1 at time                  665
+output will be 1 at time                  665
+output enable  will be 1 at time                  665
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                  665
+input A will be 3 at time                  675
+input B will be 2 at time                  675
+input Enable will be 1 at time                  675
+output will be 2 at time                  675
+output enable  will be 1 at time                  675
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                  675
+input A will be 0 at time                  685
+input B will be 2 at time                  685
+input Enable will be 1 at time                  685
+output will be 5 at time                  685
+output enable  will be 1 at time                  685
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  685
+input A will be 1 at time                  695
+input B will be 3 at time                  695
+input Enable will be 1 at time                  695
+output will be 2 at time                  695
+output enable  will be 1 at time                  695
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                  695
+input A will be 2 at time                  705
+input B will be 2 at time                  705
+input Enable will be 1 at time                  705
+output will be 4 at time                  705
+output enable  will be 1 at time                  705
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  705
+input A will be 3 at time                  715
+input B will be 2 at time                  715
+input Enable will be 1 at time                  715
+output will be 4 at time                  715
+output enable  will be 1 at time                  715
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  715
+input A will be 2 at time                  725
+input B will be 0 at time                  725
+input Enable will be 1 at time                  725
+output will be 5 at time                  725
+output enable  will be 1 at time                  725
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  725
+input A will be 1 at time                  735
+input B will be 0 at time                  735
+input Enable will be 1 at time                  735
+output will be 2 at time                  735
+output enable  will be 1 at time                  735
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  735
+input A will be 0 at time                  745
+input B will be 3 at time                  745
+input Enable will be 1 at time                  745
+output will be 1 at time                  745
+output enable  will be 1 at time                  745
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                  745
+input A will be 0 at time                  755
+input B will be 1 at time                  755
+input Enable will be 1 at time                  755
+output will be 3 at time                  755
+output enable  will be 1 at time                  755
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                  755
+input A will be 3 at time                  765
+input B will be 1 at time                  765
+input Enable will be 1 at time                  765
+output will be 1 at time                  765
+output enable  will be 1 at time                  765
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                  765
+input A will be 1 at time                  775
+input B will be 1 at time                  775
+input Enable will be 1 at time                  775
+output will be 4 at time                  775
+output enable  will be 1 at time                  775
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  775
+input A will be 2 at time                  785
+input B will be 2 at time                  785
+input Enable will be 1 at time                  785
+output will be 2 at time                  785
+output enable  will be 1 at time                  785
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                  785
+input A will be 2 at time                  795
+input B will be 1 at time                  795
+input Enable will be 1 at time                  795
+output will be 4 at time                  795
+output enable  will be 1 at time                  795
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  795
+input A will be 2 at time                  805
+input B will be 0 at time                  805
+input Enable will be 1 at time                  805
+output will be 3 at time                  805
+output enable  will be 1 at time                  805
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                  805
+input A will be 3 at time                  815
+input B will be 1 at time                  815
+input Enable will be 1 at time                  815
+output will be 2 at time                  815
+output enable  will be 1 at time                  815
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  815
+input A will be 0 at time                  825
+input B will be 0 at time                  825
+input Enable will be 1 at time                  825
+output will be 4 at time                  825
+output enable  will be 1 at time                  825
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                  825
+input A will be 0 at time                  835
+input B will be 1 at time                  835
+input Enable will be 1 at time                  835
+output will be 0 at time                  835
+output enable  will be 1 at time                  835
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                  835
+input A will be 3 at time                  845
+input B will be 2 at time                  845
+input Enable will be 1 at time                  845
+output will be 1 at time                  845
+output enable  will be 1 at time                  845
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                  845
+input A will be 0 at time                  855
+input B will be 0 at time                  855
+input Enable will be 1 at time                  855
+output will be 5 at time                  855
+output enable  will be 1 at time                  855
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  855
+input A will be 1 at time                  865
+input B will be 1 at time                  865
+input Enable will be 1 at time                  865
+output will be 0 at time                  865
+output enable  will be 1 at time                  865
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                  865
+input A will be 0 at time                  875
+input B will be 2 at time                  875
+input Enable will be 1 at time                  875
+output will be 2 at time                  875
+output enable  will be 1 at time                  875
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                  875
+input A will be 2 at time                  885
+input B will be 1 at time                  885
+input Enable will be 1 at time                  885
+output will be 2 at time                  885
+output enable  will be 1 at time                  885
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                  885
+input A will be 2 at time                  895
+input B will be 0 at time                  895
+input Enable will be 1 at time                  895
+output will be 3 at time                  895
+output enable  will be 1 at time                  895
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                  895
+input A will be 3 at time                  905
+input B will be 2 at time                  905
+input Enable will be 1 at time                  905
+output will be 2 at time                  905
+output enable  will be 1 at time                  905
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  905
+input A will be 2 at time                  915
+input B will be 2 at time                  915
+input Enable will be 1 at time                  915
+output will be 5 at time                  915
+output enable  will be 1 at time                  915
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                  915
+input A will be 1 at time                  925
+input B will be 2 at time                  925
+input Enable will be 1 at time                  925
+output will be 4 at time                  925
+output enable  will be 1 at time                  925
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  925
+input A will be 1 at time                  935
+input B will be 3 at time                  935
+input Enable will be 1 at time                  935
+output will be 3 at time                  935
+output enable  will be 1 at time                  935
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                  935
+input A will be 2 at time                  945
+input B will be 0 at time                  945
+input Enable will be 1 at time                  945
+output will be 4 at time                  945
+output enable  will be 1 at time                  945
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                  945
+input A will be 2 at time                  955
+input B will be 2 at time                  955
+input Enable will be 1 at time                  955
+output will be 2 at time                  955
+output enable  will be 1 at time                  955
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  955
+input A will be 1 at time                  965
+input B will be 0 at time                  965
+input Enable will be 1 at time                  965
+output will be 4 at time                  965
+output enable  will be 1 at time                  965
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                  965
+input A will be 2 at time                  975
+input B will be 0 at time                  975
+input Enable will be 1 at time                  975
+output will be 1 at time                  975
+output enable  will be 1 at time                  975
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                  975
+input A will be 2 at time                  985
+input B will be 3 at time                  985
+input Enable will be 1 at time                  985
+output will be 2 at time                  985
+output enable  will be 1 at time                  985
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                  985
+input A will be 3 at time                  995
+input B will be 1 at time                  995
+input Enable will be 1 at time                  995
+output will be 5 at time                  995
+output enable  will be 1 at time                  995
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                  995
+input A will be 2 at time                 1005
+input B will be 1 at time                 1005
+input Enable will be 1 at time                 1005
+output will be 4 at time                 1005
+output enable  will be 1 at time                 1005
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1005
+input A will be 3 at time                 1015
+input B will be 1 at time                 1015
+input Enable will be 1 at time                 1015
+output will be 3 at time                 1015
+output enable  will be 1 at time                 1015
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1015
+input A will be 2 at time                 1025
+input B will be 0 at time                 1025
+input Enable will be 1 at time                 1025
+output will be 4 at time                 1025
+output enable  will be 1 at time                 1025
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1025
+input A will be 1 at time                 1035
+input B will be 1 at time                 1035
+input Enable will be 1 at time                 1035
+output will be 2 at time                 1035
+output enable  will be 1 at time                 1035
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1035
+input A will be 1 at time                 1045
+input B will be 1 at time                 1045
+input Enable will be 1 at time                 1045
+output will be 2 at time                 1045
+output enable  will be 1 at time                 1045
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1045
+input A will be 1 at time                 1055
+input B will be 0 at time                 1055
+input Enable will be 1 at time                 1055
+output will be 2 at time                 1055
+output enable  will be 1 at time                 1055
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1055
+input A will be 3 at time                 1065
+input B will be 3 at time                 1065
+input Enable will be 1 at time                 1065
+output will be 1 at time                 1065
+output enable  will be 1 at time                 1065
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 1065
+input A will be 0 at time                 1075
+input B will be 2 at time                 1075
+input Enable will be 1 at time                 1075
+output will be 6 at time                 1075
+output enable  will be 1 at time                 1075
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1075
+input A will be 2 at time                 1085
+input B will be 0 at time                 1085
+input Enable will be 1 at time                 1085
+output will be 2 at time                 1085
+output enable  will be 1 at time                 1085
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1085
+input A will be 1 at time                 1095
+input B will be 1 at time                 1095
+input Enable will be 1 at time                 1095
+output will be 2 at time                 1095
+output enable  will be 1 at time                 1095
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1095
+input A will be 2 at time                 1105
+input B will be 2 at time                 1105
+input Enable will be 1 at time                 1105
+output will be 2 at time                 1105
+output enable  will be 1 at time                 1105
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1105
+input A will be 3 at time                 1115
+input B will be 2 at time                 1115
+input Enable will be 1 at time                 1115
+output will be 4 at time                 1115
+output enable  will be 1 at time                 1115
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 1115
+input A will be 2 at time                 1125
+input B will be 1 at time                 1125
+input Enable will be 1 at time                 1125
+output will be 5 at time                 1125
+output enable  will be 1 at time                 1125
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1125
+input A will be 2 at time                 1135
+input B will be 0 at time                 1135
+input Enable will be 1 at time                 1135
+output will be 3 at time                 1135
+output enable  will be 1 at time                 1135
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1135
+input A will be 1 at time                 1145
+input B will be 0 at time                 1145
+input Enable will be 1 at time                 1145
+output will be 2 at time                 1145
+output enable  will be 1 at time                 1145
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1145
+input A will be 2 at time                 1155
+input B will be 3 at time                 1155
+input Enable will be 1 at time                 1155
+output will be 1 at time                 1155
+output enable  will be 1 at time                 1155
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 1155
+input A will be 3 at time                 1165
+input B will be 3 at time                 1165
+input Enable will be 1 at time                 1165
+output will be 5 at time                 1165
+output enable  will be 1 at time                 1165
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 1165
+input A will be 2 at time                 1175
+input B will be 2 at time                 1175
+input Enable will be 1 at time                 1175
+output will be 6 at time                 1175
+output enable  will be 1 at time                 1175
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1175
+input A will be 0 at time                 1185
+input B will be 1 at time                 1185
+input Enable will be 1 at time                 1185
+output will be 4 at time                 1185
+output enable  will be 1 at time                 1185
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 1185
+input A will be 2 at time                 1195
+input B will be 0 at time                 1195
+input Enable will be 1 at time                 1195
+output will be 1 at time                 1195
+output enable  will be 1 at time                 1195
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1195
+input A will be 3 at time                 1205
+input B will be 2 at time                 1205
+input Enable will be 1 at time                 1205
+output will be 2 at time                 1205
+output enable  will be 1 at time                 1205
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1205
+input A will be 2 at time                 1215
+input B will be 2 at time                 1215
+input Enable will be 1 at time                 1215
+output will be 5 at time                 1215
+output enable  will be 1 at time                 1215
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1215
+input A will be 2 at time                 1225
+input B will be 1 at time                 1225
+input Enable will be 1 at time                 1225
+output will be 4 at time                 1225
+output enable  will be 1 at time                 1225
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 1225
+input A will be 0 at time                 1235
+input B will be 0 at time                 1235
+input Enable will be 1 at time                 1235
+output will be 3 at time                 1235
+output enable  will be 1 at time                 1235
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1235
+input A will be 2 at time                 1245
+input B will be 1 at time                 1245
+input Enable will be 1 at time                 1245
+output will be 0 at time                 1245
+output enable  will be 1 at time                 1245
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1245
+input A will be 1 at time                 1255
+input B will be 2 at time                 1255
+input Enable will be 1 at time                 1255
+output will be 3 at time                 1255
+output enable  will be 1 at time                 1255
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1255
+input A will be 3 at time                 1265
+input B will be 3 at time                 1265
+input Enable will be 1 at time                 1265
+output will be 3 at time                 1265
+output enable  will be 1 at time                 1265
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 1265
+input A will be 3 at time                 1275
+input B will be 1 at time                 1275
+input Enable will be 1 at time                 1275
+output will be 6 at time                 1275
+output enable  will be 1 at time                 1275
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1275
+input A will be 2 at time                 1285
+input B will be 1 at time                 1285
+input Enable will be 1 at time                 1285
+output will be 4 at time                 1285
+output enable  will be 1 at time                 1285
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1285
+input A will be 3 at time                 1295
+input B will be 3 at time                 1295
+input Enable will be 1 at time                 1295
+output will be 3 at time                 1295
+output enable  will be 1 at time                 1295
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1295
+input A will be 0 at time                 1305
+input B will be 2 at time                 1305
+input Enable will be 1 at time                 1305
+output will be 6 at time                 1305
+output enable  will be 1 at time                 1305
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1305
+input A will be 3 at time                 1315
+input B will be 2 at time                 1315
+input Enable will be 1 at time                 1315
+output will be 2 at time                 1315
+output enable  will be 1 at time                 1315
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1315
+input A will be 0 at time                 1325
+input B will be 1 at time                 1325
+input Enable will be 1 at time                 1325
+output will be 5 at time                 1325
+output enable  will be 1 at time                 1325
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1325
+input A will be 3 at time                 1335
+input B will be 2 at time                 1335
+input Enable will be 1 at time                 1335
+output will be 1 at time                 1335
+output enable  will be 1 at time                 1335
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1335
+input A will be 2 at time                 1345
+input B will be 1 at time                 1345
+input Enable will be 1 at time                 1345
+output will be 5 at time                 1345
+output enable  will be 1 at time                 1345
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1345
+input A will be 0 at time                 1355
+input B will be 0 at time                 1355
+input Enable will be 1 at time                 1355
+output will be 3 at time                 1355
+output enable  will be 1 at time                 1355
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1355
+input A will be 1 at time                 1365
+input B will be 2 at time                 1365
+input Enable will be 1 at time                 1365
+output will be 0 at time                 1365
+output enable  will be 1 at time                 1365
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1365
+input A will be 1 at time                 1375
+input B will be 3 at time                 1375
+input Enable will be 1 at time                 1375
+output will be 3 at time                 1375
+output enable  will be 1 at time                 1375
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 1375
+input A will be 0 at time                 1385
+input B will be 3 at time                 1385
+input Enable will be 1 at time                 1385
+output will be 4 at time                 1385
+output enable  will be 1 at time                 1385
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 1385
+input A will be 2 at time                 1395
+input B will be 3 at time                 1395
+input Enable will be 1 at time                 1395
+output will be 3 at time                 1395
+output enable  will be 1 at time                 1395
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 1395
+input A will be 2 at time                 1405
+input B will be 0 at time                 1405
+input Enable will be 1 at time                 1405
+output will be 5 at time                 1405
+output enable  will be 1 at time                 1405
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 1405
+input A will be 3 at time                 1415
+input B will be 0 at time                 1415
+input Enable will be 1 at time                 1415
+output will be 2 at time                 1415
+output enable  will be 1 at time                 1415
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1415
+input A will be 2 at time                 1425
+input B will be 0 at time                 1425
+input Enable will be 1 at time                 1425
+output will be 3 at time                 1425
+output enable  will be 1 at time                 1425
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 1425
+input A will be 1 at time                 1435
+input B will be 1 at time                 1435
+input Enable will be 1 at time                 1435
+output will be 2 at time                 1435
+output enable  will be 1 at time                 1435
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1435
+input A will be 1 at time                 1445
+input B will be 3 at time                 1445
+input Enable will be 1 at time                 1445
+output will be 2 at time                 1445
+output enable  will be 1 at time                 1445
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1445
+input A will be 1 at time                 1455
+input B will be 0 at time                 1455
+input Enable will be 1 at time                 1455
+output will be 4 at time                 1455
+output enable  will be 1 at time                 1455
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 1455
+input A will be 3 at time                 1465
+input B will be 1 at time                 1465
+input Enable will be 1 at time                 1465
+output will be 1 at time                 1465
+output enable  will be 1 at time                 1465
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 1465
+input A will be 3 at time                 1475
+input B will be 0 at time                 1475
+input Enable will be 1 at time                 1475
+output will be 4 at time                 1475
+output enable  will be 1 at time                 1475
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1475
+input A will be 0 at time                 1485
+input B will be 2 at time                 1485
+input Enable will be 1 at time                 1485
+output will be 3 at time                 1485
+output enable  will be 1 at time                 1485
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 1485
+input A will be 0 at time                 1495
+input B will be 2 at time                 1495
+input Enable will be 1 at time                 1495
+output will be 2 at time                 1495
+output enable  will be 1 at time                 1495
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1495
+input A will be 2 at time                 1505
+input B will be 1 at time                 1505
+input Enable will be 1 at time                 1505
+output will be 2 at time                 1505
+output enable  will be 1 at time                 1505
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1505
+input A will be 1 at time                 1515
+input B will be 1 at time                 1515
+input Enable will be 1 at time                 1515
+output will be 3 at time                 1515
+output enable  will be 1 at time                 1515
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1515
+input A will be 3 at time                 1525
+input B will be 1 at time                 1525
+input Enable will be 1 at time                 1525
+output will be 2 at time                 1525
+output enable  will be 1 at time                 1525
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1525
+input A will be 1 at time                 1535
+input B will be 3 at time                 1535
+input Enable will be 1 at time                 1535
+output will be 4 at time                 1535
+output enable  will be 1 at time                 1535
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1535
+input A will be 0 at time                 1545
+input B will be 3 at time                 1545
+input Enable will be 1 at time                 1545
+output will be 4 at time                 1545
+output enable  will be 1 at time                 1545
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 1545
+input A will be 3 at time                 1555
+input B will be 1 at time                 1555
+input Enable will be 1 at time                 1555
+output will be 3 at time                 1555
+output enable  will be 1 at time                 1555
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 1555
+input A will be 1 at time                 1565
+input B will be 3 at time                 1565
+input Enable will be 1 at time                 1565
+output will be 4 at time                 1565
+output enable  will be 1 at time                 1565
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1565
+input A will be 1 at time                 1575
+input B will be 1 at time                 1575
+input Enable will be 1 at time                 1575
+output will be 4 at time                 1575
+output enable  will be 1 at time                 1575
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 1575
+input A will be 1 at time                 1585
+input B will be 2 at time                 1585
+input Enable will be 1 at time                 1585
+output will be 2 at time                 1585
+output enable  will be 1 at time                 1585
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1585
+input A will be 2 at time                 1595
+input B will be 1 at time                 1595
+input Enable will be 1 at time                 1595
+output will be 3 at time                 1595
+output enable  will be 1 at time                 1595
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 1595
+input A will be 3 at time                 1605
+input B will be 0 at time                 1605
+input Enable will be 1 at time                 1605
+output will be 3 at time                 1605
+output enable  will be 1 at time                 1605
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1605
+input A will be 2 at time                 1615
+input B will be 2 at time                 1615
+input Enable will be 1 at time                 1615
+output will be 3 at time                 1615
+output enable  will be 1 at time                 1615
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 1615
+input A will be 0 at time                 1625
+input B will be 3 at time                 1625
+input Enable will be 1 at time                 1625
+output will be 4 at time                 1625
+output enable  will be 1 at time                 1625
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 1625
+input A will be 2 at time                 1635
+input B will be 0 at time                 1635
+input Enable will be 1 at time                 1635
+output will be 3 at time                 1635
+output enable  will be 1 at time                 1635
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 1635
+input A will be 0 at time                 1645
+input B will be 0 at time                 1645
+input Enable will be 1 at time                 1645
+output will be 2 at time                 1645
+output enable  will be 1 at time                 1645
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1645
+input A will be 0 at time                 1655
+input B will be 2 at time                 1655
+input Enable will be 1 at time                 1655
+output will be 0 at time                 1655
+output enable  will be 1 at time                 1655
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1655
+input A will be 1 at time                 1665
+input B will be 0 at time                 1665
+input Enable will be 1 at time                 1665
+output will be 2 at time                 1665
+output enable  will be 1 at time                 1665
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1665
+input A will be 0 at time                 1675
+input B will be 1 at time                 1675
+input Enable will be 1 at time                 1675
+output will be 1 at time                 1675
+output enable  will be 1 at time                 1675
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 1675
+input A will be 0 at time                 1685
+input B will be 0 at time                 1685
+input Enable will be 1 at time                 1685
+output will be 1 at time                 1685
+output enable  will be 1 at time                 1685
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1685
+input A will be 2 at time                 1695
+input B will be 2 at time                 1695
+input Enable will be 1 at time                 1695
+output will be 0 at time                 1695
+output enable  will be 1 at time                 1695
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1695
+input A will be 1 at time                 1705
+input B will be 1 at time                 1705
+input Enable will be 1 at time                 1705
+output will be 4 at time                 1705
+output enable  will be 1 at time                 1705
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 1705
+input A will be 3 at time                 1715
+input B will be 3 at time                 1715
+input Enable will be 1 at time                 1715
+output will be 2 at time                 1715
+output enable  will be 1 at time                 1715
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1715
+input A will be 1 at time                 1725
+input B will be 2 at time                 1725
+input Enable will be 1 at time                 1725
+output will be 6 at time                 1725
+output enable  will be 1 at time                 1725
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1725
+input A will be 1 at time                 1735
+input B will be 1 at time                 1735
+input Enable will be 1 at time                 1735
+output will be 3 at time                 1735
+output enable  will be 1 at time                 1735
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 1735
+input A will be 1 at time                 1745
+input B will be 2 at time                 1745
+input Enable will be 1 at time                 1745
+output will be 2 at time                 1745
+output enable  will be 1 at time                 1745
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1745
+input A will be 3 at time                 1755
+input B will be 0 at time                 1755
+input Enable will be 1 at time                 1755
+output will be 3 at time                 1755
+output enable  will be 1 at time                 1755
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 1755
+input A will be 0 at time                 1765
+input B will be 1 at time                 1765
+input Enable will be 1 at time                 1765
+output will be 3 at time                 1765
+output enable  will be 1 at time                 1765
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 1765
+input A will be 3 at time                 1775
+input B will be 2 at time                 1775
+input Enable will be 1 at time                 1775
+output will be 1 at time                 1775
+output enable  will be 1 at time                 1775
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1775
+input A will be 3 at time                 1785
+input B will be 2 at time                 1785
+input Enable will be 1 at time                 1785
+output will be 5 at time                 1785
+output enable  will be 1 at time                 1785
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1785
+input A will be 0 at time                 1795
+input B will be 1 at time                 1795
+input Enable will be 1 at time                 1795
+output will be 5 at time                 1795
+output enable  will be 1 at time                 1795
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1795
+input A will be 0 at time                 1805
+input B will be 0 at time                 1805
+input Enable will be 1 at time                 1805
+output will be 1 at time                 1805
+output enable  will be 1 at time                 1805
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1805
+input A will be 2 at time                 1815
+input B will be 0 at time                 1815
+input Enable will be 1 at time                 1815
+output will be 0 at time                 1815
+output enable  will be 1 at time                 1815
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1815
+input A will be 1 at time                 1825
+input B will be 1 at time                 1825
+input Enable will be 1 at time                 1825
+output will be 2 at time                 1825
+output enable  will be 1 at time                 1825
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1825
+input A will be 3 at time                 1835
+input B will be 1 at time                 1835
+input Enable will be 1 at time                 1835
+output will be 2 at time                 1835
+output enable  will be 1 at time                 1835
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1835
+input A will be 2 at time                 1845
+input B will be 1 at time                 1845
+input Enable will be 1 at time                 1845
+output will be 4 at time                 1845
+output enable  will be 1 at time                 1845
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 1845
+input A will be 3 at time                 1855
+input B will be 3 at time                 1855
+input Enable will be 1 at time                 1855
+output will be 3 at time                 1855
+output enable  will be 1 at time                 1855
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1855
+input A will be 3 at time                 1865
+input B will be 3 at time                 1865
+input Enable will be 1 at time                 1865
+output will be 6 at time                 1865
+output enable  will be 1 at time                 1865
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1865
+input A will be 1 at time                 1875
+input B will be 1 at time                 1875
+input Enable will be 1 at time                 1875
+output will be 6 at time                 1875
+output enable  will be 1 at time                 1875
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 1875
+input A will be 0 at time                 1885
+input B will be 1 at time                 1885
+input Enable will be 1 at time                 1885
+output will be 2 at time                 1885
+output enable  will be 1 at time                 1885
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 1885
+input A will be 0 at time                 1895
+input B will be 1 at time                 1895
+input Enable will be 1 at time                 1895
+output will be 1 at time                 1895
+output enable  will be 1 at time                 1895
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1895
+input A will be 2 at time                 1905
+input B will be 0 at time                 1905
+input Enable will be 1 at time                 1905
+output will be 1 at time                 1905
+output enable  will be 1 at time                 1905
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 1905
+input A will be 1 at time                 1915
+input B will be 2 at time                 1915
+input Enable will be 1 at time                 1915
+output will be 2 at time                 1915
+output enable  will be 1 at time                 1915
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 1915
+input A will be 0 at time                 1925
+input B will be 2 at time                 1925
+input Enable will be 1 at time                 1925
+output will be 3 at time                 1925
+output enable  will be 1 at time                 1925
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 1925
+input A will be 0 at time                 1935
+input B will be 0 at time                 1935
+input Enable will be 1 at time                 1935
+output will be 2 at time                 1935
+output enable  will be 1 at time                 1935
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1935
+input A will be 3 at time                 1945
+input B will be 2 at time                 1945
+input Enable will be 1 at time                 1945
+output will be 0 at time                 1945
+output enable  will be 1 at time                 1945
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1945
+input A will be 0 at time                 1955
+input B will be 2 at time                 1955
+input Enable will be 1 at time                 1955
+output will be 5 at time                 1955
+output enable  will be 1 at time                 1955
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 1955
+input A will be 0 at time                 1965
+input B will be 0 at time                 1965
+input Enable will be 1 at time                 1965
+output will be 2 at time                 1965
+output enable  will be 1 at time                 1965
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 1965
+input A will be 2 at time                 1975
+input B will be 3 at time                 1975
+input Enable will be 1 at time                 1975
+output will be 0 at time                 1975
+output enable  will be 1 at time                 1975
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 1975
+input A will be 2 at time                 1985
+input B will be 1 at time                 1985
+input Enable will be 1 at time                 1985
+output will be 5 at time                 1985
+output enable  will be 1 at time                 1985
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 1985
+input A will be 2 at time                 1995
+input B will be 2 at time                 1995
+input Enable will be 1 at time                 1995
+output will be 3 at time                 1995
+output enable  will be 1 at time                 1995
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 1995
+input A will be 1 at time                 2005
+input B will be 0 at time                 2005
+input Enable will be 1 at time                 2005
+output will be 4 at time                 2005
+output enable  will be 1 at time                 2005
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 2005
+input A will be 1 at time                 2015
+input B will be 3 at time                 2015
+input Enable will be 1 at time                 2015
+output will be 1 at time                 2015
+output enable  will be 1 at time                 2015
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2015
+input A will be 0 at time                 2025
+input B will be 3 at time                 2025
+input Enable will be 1 at time                 2025
+output will be 4 at time                 2025
+output enable  will be 1 at time                 2025
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2025
+input A will be 2 at time                 2035
+input B will be 1 at time                 2035
+input Enable will be 1 at time                 2035
+output will be 3 at time                 2035
+output enable  will be 1 at time                 2035
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2035
+input A will be 0 at time                 2045
+input B will be 0 at time                 2045
+input Enable will be 1 at time                 2045
+output will be 3 at time                 2045
+output enable  will be 1 at time                 2045
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2045
+input A will be 0 at time                 2055
+input B will be 0 at time                 2055
+input Enable will be 1 at time                 2055
+output will be 0 at time                 2055
+output enable  will be 1 at time                 2055
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 2055
+input A will be 3 at time                 2065
+input B will be 2 at time                 2065
+input Enable will be 1 at time                 2065
+output will be 0 at time                 2065
+output enable  will be 1 at time                 2065
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 2065
+input A will be 1 at time                 2075
+input B will be 0 at time                 2075
+input Enable will be 1 at time                 2075
+output will be 5 at time                 2075
+output enable  will be 1 at time                 2075
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 2075
+input A will be 3 at time                 2085
+input B will be 3 at time                 2085
+input Enable will be 1 at time                 2085
+output will be 1 at time                 2085
+output enable  will be 1 at time                 2085
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2085
+input A will be 0 at time                 2095
+input B will be 3 at time                 2095
+input Enable will be 1 at time                 2095
+output will be 6 at time                 2095
+output enable  will be 1 at time                 2095
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 2095
+input A will be 0 at time                 2105
+input B will be 1 at time                 2105
+input Enable will be 1 at time                 2105
+output will be 3 at time                 2105
+output enable  will be 1 at time                 2105
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2105
+input A will be 1 at time                 2115
+input B will be 3 at time                 2115
+input Enable will be 1 at time                 2115
+output will be 1 at time                 2115
+output enable  will be 1 at time                 2115
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2115
+input A will be 0 at time                 2125
+input B will be 3 at time                 2125
+input Enable will be 1 at time                 2125
+output will be 4 at time                 2125
+output enable  will be 1 at time                 2125
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2125
+input A will be 1 at time                 2135
+input B will be 0 at time                 2135
+input Enable will be 1 at time                 2135
+output will be 3 at time                 2135
+output enable  will be 1 at time                 2135
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2135
+input A will be 2 at time                 2145
+input B will be 1 at time                 2145
+input Enable will be 1 at time                 2145
+output will be 1 at time                 2145
+output enable  will be 1 at time                 2145
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2145
+input A will be 1 at time                 2155
+input B will be 0 at time                 2155
+input Enable will be 1 at time                 2155
+output will be 3 at time                 2155
+output enable  will be 1 at time                 2155
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2155
+input A will be 0 at time                 2165
+input B will be 3 at time                 2165
+input Enable will be 1 at time                 2165
+output will be 1 at time                 2165
+output enable  will be 1 at time                 2165
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2165
+input A will be 3 at time                 2175
+input B will be 2 at time                 2175
+input Enable will be 1 at time                 2175
+output will be 3 at time                 2175
+output enable  will be 1 at time                 2175
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2175
+input A will be 0 at time                 2185
+input B will be 1 at time                 2185
+input Enable will be 1 at time                 2185
+output will be 5 at time                 2185
+output enable  will be 1 at time                 2185
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 2185
+input A will be 2 at time                 2195
+input B will be 0 at time                 2195
+input Enable will be 1 at time                 2195
+output will be 1 at time                 2195
+output enable  will be 1 at time                 2195
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2195
+input A will be 3 at time                 2205
+input B will be 1 at time                 2205
+input Enable will be 1 at time                 2205
+output will be 2 at time                 2205
+output enable  will be 1 at time                 2205
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2205
+input A will be 2 at time                 2215
+input B will be 2 at time                 2215
+input Enable will be 1 at time                 2215
+output will be 4 at time                 2215
+output enable  will be 1 at time                 2215
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2215
+input A will be 1 at time                 2225
+input B will be 0 at time                 2225
+input Enable will be 1 at time                 2225
+output will be 4 at time                 2225
+output enable  will be 1 at time                 2225
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 2225
+input A will be 2 at time                 2235
+input B will be 3 at time                 2235
+input Enable will be 1 at time                 2235
+output will be 1 at time                 2235
+output enable  will be 1 at time                 2235
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2235
+input A will be 3 at time                 2245
+input B will be 2 at time                 2245
+input Enable will be 1 at time                 2245
+output will be 5 at time                 2245
+output enable  will be 1 at time                 2245
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 2245
+input A will be 3 at time                 2255
+input B will be 0 at time                 2255
+input Enable will be 1 at time                 2255
+output will be 5 at time                 2255
+output enable  will be 1 at time                 2255
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 2255
+input A will be 3 at time                 2265
+input B will be 1 at time                 2265
+input Enable will be 1 at time                 2265
+output will be 3 at time                 2265
+output enable  will be 1 at time                 2265
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 2265
+input A will be 0 at time                 2275
+input B will be 1 at time                 2275
+input Enable will be 1 at time                 2275
+output will be 4 at time                 2275
+output enable  will be 1 at time                 2275
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2275
+input A will be 1 at time                 2285
+input B will be 3 at time                 2285
+input Enable will be 1 at time                 2285
+output will be 1 at time                 2285
+output enable  will be 1 at time                 2285
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2285
+input A will be 0 at time                 2295
+input B will be 1 at time                 2295
+input Enable will be 1 at time                 2295
+output will be 4 at time                 2295
+output enable  will be 1 at time                 2295
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2295
+input A will be 1 at time                 2305
+input B will be 3 at time                 2305
+input Enable will be 1 at time                 2305
+output will be 1 at time                 2305
+output enable  will be 1 at time                 2305
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2305
+input A will be 2 at time                 2315
+input B will be 0 at time                 2315
+input Enable will be 1 at time                 2315
+output will be 4 at time                 2315
+output enable  will be 1 at time                 2315
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2315
+input A will be 3 at time                 2325
+input B will be 0 at time                 2325
+input Enable will be 1 at time                 2325
+output will be 2 at time                 2325
+output enable  will be 1 at time                 2325
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2325
+input A will be 0 at time                 2335
+input B will be 3 at time                 2335
+input Enable will be 1 at time                 2335
+output will be 3 at time                 2335
+output enable  will be 1 at time                 2335
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 2335
+input A will be 2 at time                 2345
+input B will be 0 at time                 2345
+input Enable will be 1 at time                 2345
+output will be 3 at time                 2345
+output enable  will be 1 at time                 2345
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2345
+input A will be 3 at time                 2355
+input B will be 1 at time                 2355
+input Enable will be 1 at time                 2355
+output will be 2 at time                 2355
+output enable  will be 1 at time                 2355
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2355
+input A will be 0 at time                 2365
+input B will be 3 at time                 2365
+input Enable will be 1 at time                 2365
+output will be 4 at time                 2365
+output enable  will be 1 at time                 2365
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2365
+input A will be 2 at time                 2375
+input B will be 1 at time                 2375
+input Enable will be 1 at time                 2375
+output will be 3 at time                 2375
+output enable  will be 1 at time                 2375
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2375
+input A will be 3 at time                 2385
+input B will be 1 at time                 2385
+input Enable will be 1 at time                 2385
+output will be 3 at time                 2385
+output enable  will be 1 at time                 2385
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2385
+input A will be 3 at time                 2395
+input B will be 0 at time                 2395
+input Enable will be 1 at time                 2395
+output will be 4 at time                 2395
+output enable  will be 1 at time                 2395
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2395
+input A will be 2 at time                 2405
+input B will be 1 at time                 2405
+input Enable will be 1 at time                 2405
+output will be 3 at time                 2405
+output enable  will be 1 at time                 2405
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 2405
+input A will be 0 at time                 2415
+input B will be 3 at time                 2415
+input Enable will be 1 at time                 2415
+output will be 3 at time                 2415
+output enable  will be 1 at time                 2415
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2415
+input A will be 2 at time                 2425
+input B will be 3 at time                 2425
+input Enable will be 1 at time                 2425
+output will be 3 at time                 2425
+output enable  will be 1 at time                 2425
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2425
+input A will be 1 at time                 2435
+input B will be 0 at time                 2435
+input Enable will be 1 at time                 2435
+output will be 5 at time                 2435
+output enable  will be 1 at time                 2435
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 2435
+input A will be 2 at time                 2445
+input B will be 3 at time                 2445
+input Enable will be 1 at time                 2445
+output will be 1 at time                 2445
+output enable  will be 1 at time                 2445
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2445
+input A will be 1 at time                 2455
+input B will be 1 at time                 2455
+input Enable will be 1 at time                 2455
+output will be 5 at time                 2455
+output enable  will be 1 at time                 2455
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 2455
+input A will be 2 at time                 2465
+input B will be 0 at time                 2465
+input Enable will be 1 at time                 2465
+output will be 2 at time                 2465
+output enable  will be 1 at time                 2465
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2465
+input A will be 1 at time                 2475
+input B will be 0 at time                 2475
+input Enable will be 1 at time                 2475
+output will be 2 at time                 2475
+output enable  will be 1 at time                 2475
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2475
+input A will be 0 at time                 2485
+input B will be 1 at time                 2485
+input Enable will be 1 at time                 2485
+output will be 1 at time                 2485
+output enable  will be 1 at time                 2485
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2485
+input A will be 1 at time                 2495
+input B will be 3 at time                 2495
+input Enable will be 1 at time                 2495
+output will be 1 at time                 2495
+output enable  will be 1 at time                 2495
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2495
+input A will be 2 at time                 2505
+input B will be 1 at time                 2505
+input Enable will be 1 at time                 2505
+output will be 4 at time                 2505
+output enable  will be 1 at time                 2505
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2505
+input A will be 1 at time                 2515
+input B will be 0 at time                 2515
+input Enable will be 1 at time                 2515
+output will be 3 at time                 2515
+output enable  will be 1 at time                 2515
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2515
+input A will be 0 at time                 2525
+input B will be 2 at time                 2525
+input Enable will be 1 at time                 2525
+output will be 1 at time                 2525
+output enable  will be 1 at time                 2525
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2525
+input A will be 3 at time                 2535
+input B will be 1 at time                 2535
+input Enable will be 1 at time                 2535
+output will be 2 at time                 2535
+output enable  will be 1 at time                 2535
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 2535
+input A will be 1 at time                 2545
+input B will be 2 at time                 2545
+input Enable will be 1 at time                 2545
+output will be 4 at time                 2545
+output enable  will be 1 at time                 2545
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2545
+input A will be 2 at time                 2555
+input B will be 0 at time                 2555
+input Enable will be 1 at time                 2555
+output will be 3 at time                 2555
+output enable  will be 1 at time                 2555
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 2555
+input A will be 1 at time                 2565
+input B will be 3 at time                 2565
+input Enable will be 1 at time                 2565
+output will be 2 at time                 2565
+output enable  will be 1 at time                 2565
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2565
+input A will be 3 at time                 2575
+input B will be 3 at time                 2575
+input Enable will be 1 at time                 2575
+output will be 4 at time                 2575
+output enable  will be 1 at time                 2575
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2575
+input A will be 2 at time                 2585
+input B will be 1 at time                 2585
+input Enable will be 1 at time                 2585
+output will be 6 at time                 2585
+output enable  will be 1 at time                 2585
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 2585
+input A will be 3 at time                 2595
+input B will be 3 at time                 2595
+input Enable will be 1 at time                 2595
+output will be 3 at time                 2595
+output enable  will be 1 at time                 2595
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2595
+input A will be 1 at time                 2605
+input B will be 1 at time                 2605
+input Enable will be 1 at time                 2605
+output will be 6 at time                 2605
+output enable  will be 1 at time                 2605
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 2605
+input A will be 3 at time                 2615
+input B will be 1 at time                 2615
+input Enable will be 1 at time                 2615
+output will be 2 at time                 2615
+output enable  will be 1 at time                 2615
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2615
+input A will be 2 at time                 2625
+input B will be 1 at time                 2625
+input Enable will be 1 at time                 2625
+output will be 4 at time                 2625
+output enable  will be 1 at time                 2625
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2625
+input A will be 2 at time                 2635
+input B will be 0 at time                 2635
+input Enable will be 1 at time                 2635
+output will be 3 at time                 2635
+output enable  will be 1 at time                 2635
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2635
+input A will be 2 at time                 2645
+input B will be 1 at time                 2645
+input Enable will be 1 at time                 2645
+output will be 2 at time                 2645
+output enable  will be 1 at time                 2645
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2645
+input A will be 1 at time                 2655
+input B will be 1 at time                 2655
+input Enable will be 1 at time                 2655
+output will be 3 at time                 2655
+output enable  will be 1 at time                 2655
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2655
+input A will be 1 at time                 2665
+input B will be 1 at time                 2665
+input Enable will be 1 at time                 2665
+output will be 2 at time                 2665
+output enable  will be 1 at time                 2665
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2665
+input A will be 1 at time                 2675
+input B will be 3 at time                 2675
+input Enable will be 1 at time                 2675
+output will be 2 at time                 2675
+output enable  will be 1 at time                 2675
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2675
+input A will be 3 at time                 2685
+input B will be 1 at time                 2685
+input Enable will be 1 at time                 2685
+output will be 4 at time                 2685
+output enable  will be 1 at time                 2685
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2685
+input A will be 0 at time                 2695
+input B will be 2 at time                 2695
+input Enable will be 1 at time                 2695
+output will be 4 at time                 2695
+output enable  will be 1 at time                 2695
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2695
+input A will be 2 at time                 2705
+input B will be 1 at time                 2705
+input Enable will be 1 at time                 2705
+output will be 2 at time                 2705
+output enable  will be 1 at time                 2705
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 2705
+input A will be 2 at time                 2715
+input B will be 0 at time                 2715
+input Enable will be 1 at time                 2715
+output will be 3 at time                 2715
+output enable  will be 1 at time                 2715
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2715
+input A will be 0 at time                 2725
+input B will be 3 at time                 2725
+input Enable will be 1 at time                 2725
+output will be 2 at time                 2725
+output enable  will be 1 at time                 2725
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2725
+input A will be 1 at time                 2735
+input B will be 0 at time                 2735
+input Enable will be 1 at time                 2735
+output will be 3 at time                 2735
+output enable  will be 1 at time                 2735
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2735
+input A will be 2 at time                 2745
+input B will be 0 at time                 2745
+input Enable will be 1 at time                 2745
+output will be 1 at time                 2745
+output enable  will be 1 at time                 2745
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2745
+input A will be 3 at time                 2755
+input B will be 1 at time                 2755
+input Enable will be 1 at time                 2755
+output will be 2 at time                 2755
+output enable  will be 1 at time                 2755
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2755
+input A will be 0 at time                 2765
+input B will be 3 at time                 2765
+input Enable will be 1 at time                 2765
+output will be 4 at time                 2765
+output enable  will be 1 at time                 2765
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 2765
+input A will be 2 at time                 2775
+input B will be 3 at time                 2775
+input Enable will be 1 at time                 2775
+output will be 3 at time                 2775
+output enable  will be 1 at time                 2775
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2775
+input A will be 0 at time                 2785
+input B will be 2 at time                 2785
+input Enable will be 1 at time                 2785
+output will be 5 at time                 2785
+output enable  will be 1 at time                 2785
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 2785
+input A will be 0 at time                 2795
+input B will be 1 at time                 2795
+input Enable will be 1 at time                 2795
+output will be 2 at time                 2795
+output enable  will be 1 at time                 2795
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 2795
+input A will be 1 at time                 2805
+input B will be 3 at time                 2805
+input Enable will be 1 at time                 2805
+output will be 1 at time                 2805
+output enable  will be 1 at time                 2805
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2805
+input A will be 0 at time                 2815
+input B will be 1 at time                 2815
+input Enable will be 1 at time                 2815
+output will be 4 at time                 2815
+output enable  will be 1 at time                 2815
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 2815
+input A will be 0 at time                 2825
+input B will be 1 at time                 2825
+input Enable will be 1 at time                 2825
+output will be 1 at time                 2825
+output enable  will be 1 at time                 2825
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2825
+input A will be 2 at time                 2835
+input B will be 1 at time                 2835
+input Enable will be 1 at time                 2835
+output will be 1 at time                 2835
+output enable  will be 1 at time                 2835
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2835
+input A will be 1 at time                 2845
+input B will be 2 at time                 2845
+input Enable will be 1 at time                 2845
+output will be 3 at time                 2845
+output enable  will be 1 at time                 2845
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 2845
+input A will be 2 at time                 2855
+input B will be 0 at time                 2855
+input Enable will be 1 at time                 2855
+output will be 3 at time                 2855
+output enable  will be 1 at time                 2855
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 2855
+input A will be 0 at time                 2865
+input B will be 1 at time                 2865
+input Enable will be 1 at time                 2865
+output will be 2 at time                 2865
+output enable  will be 1 at time                 2865
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2865
+input A will be 3 at time                 2875
+input B will be 0 at time                 2875
+input Enable will be 1 at time                 2875
+output will be 1 at time                 2875
+output enable  will be 1 at time                 2875
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2875
+input A will be 0 at time                 2885
+input B will be 1 at time                 2885
+input Enable will be 1 at time                 2885
+output will be 3 at time                 2885
+output enable  will be 1 at time                 2885
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 2885
+input A will be 0 at time                 2895
+input B will be 3 at time                 2895
+input Enable will be 1 at time                 2895
+output will be 1 at time                 2895
+output enable  will be 1 at time                 2895
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2895
+input A will be 0 at time                 2905
+input B will be 1 at time                 2905
+input Enable will be 1 at time                 2905
+output will be 3 at time                 2905
+output enable  will be 1 at time                 2905
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 2905
+input A will be 1 at time                 2915
+input B will be 0 at time                 2915
+input Enable will be 1 at time                 2915
+output will be 1 at time                 2915
+output enable  will be 1 at time                 2915
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 2915
+input A will be 1 at time                 2925
+input B will be 1 at time                 2925
+input Enable will be 1 at time                 2925
+output will be 1 at time                 2925
+output enable  will be 1 at time                 2925
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2925
+input A will be 0 at time                 2935
+input B will be 0 at time                 2935
+input Enable will be 1 at time                 2935
+output will be 2 at time                 2935
+output enable  will be 1 at time                 2935
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2935
+input A will be 0 at time                 2945
+input B will be 0 at time                 2945
+input Enable will be 1 at time                 2945
+output will be 0 at time                 2945
+output enable  will be 1 at time                 2945
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 2945
+input A will be 1 at time                 2955
+input B will be 1 at time                 2955
+input Enable will be 1 at time                 2955
+output will be 0 at time                 2955
+output enable  will be 1 at time                 2955
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 2955
+input A will be 1 at time                 2965
+input B will be 1 at time                 2965
+input Enable will be 1 at time                 2965
+output will be 2 at time                 2965
+output enable  will be 1 at time                 2965
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2965
+input A will be 1 at time                 2975
+input B will be 0 at time                 2975
+input Enable will be 1 at time                 2975
+output will be 2 at time                 2975
+output enable  will be 1 at time                 2975
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 2975
+input A will be 2 at time                 2985
+input B will be 0 at time                 2985
+input Enable will be 1 at time                 2985
+output will be 1 at time                 2985
+output enable  will be 1 at time                 2985
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 2985
+input A will be 0 at time                 2995
+input B will be 2 at time                 2995
+input Enable will be 1 at time                 2995
+output will be 2 at time                 2995
+output enable  will be 1 at time                 2995
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 2995
+input A will be 2 at time                 3005
+input B will be 2 at time                 3005
+input Enable will be 1 at time                 3005
+output will be 2 at time                 3005
+output enable  will be 1 at time                 3005
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3005
+input A will be 3 at time                 3015
+input B will be 3 at time                 3015
+input Enable will be 1 at time                 3015
+output will be 4 at time                 3015
+output enable  will be 1 at time                 3015
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 3015
+input A will be 1 at time                 3025
+input B will be 3 at time                 3025
+input Enable will be 1 at time                 3025
+output will be 6 at time                 3025
+output enable  will be 1 at time                 3025
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3025
+input A will be 1 at time                 3035
+input B will be 3 at time                 3035
+input Enable will be 1 at time                 3035
+output will be 4 at time                 3035
+output enable  will be 1 at time                 3035
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3035
+input A will be 1 at time                 3045
+input B will be 2 at time                 3045
+input Enable will be 1 at time                 3045
+output will be 4 at time                 3045
+output enable  will be 1 at time                 3045
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3045
+input A will be 0 at time                 3055
+input B will be 2 at time                 3055
+input Enable will be 1 at time                 3055
+output will be 3 at time                 3055
+output enable  will be 1 at time                 3055
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 3055
+input A will be 0 at time                 3065
+input B will be 2 at time                 3065
+input Enable will be 1 at time                 3065
+output will be 2 at time                 3065
+output enable  will be 1 at time                 3065
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3065
+input A will be 0 at time                 3075
+input B will be 1 at time                 3075
+input Enable will be 1 at time                 3075
+output will be 2 at time                 3075
+output enable  will be 1 at time                 3075
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3075
+input A will be 3 at time                 3085
+input B will be 0 at time                 3085
+input Enable will be 1 at time                 3085
+output will be 1 at time                 3085
+output enable  will be 1 at time                 3085
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 3085
+input A will be 3 at time                 3095
+input B will be 0 at time                 3095
+input Enable will be 1 at time                 3095
+output will be 3 at time                 3095
+output enable  will be 1 at time                 3095
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3095
+input A will be 1 at time                 3105
+input B will be 1 at time                 3105
+input Enable will be 1 at time                 3105
+output will be 3 at time                 3105
+output enable  will be 1 at time                 3105
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3105
+input A will be 3 at time                 3115
+input B will be 0 at time                 3115
+input Enable will be 1 at time                 3115
+output will be 2 at time                 3115
+output enable  will be 1 at time                 3115
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 3115
+input A will be 0 at time                 3125
+input B will be 0 at time                 3125
+input Enable will be 1 at time                 3125
+output will be 3 at time                 3125
+output enable  will be 1 at time                 3125
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3125
+input A will be 1 at time                 3135
+input B will be 1 at time                 3135
+input Enable will be 1 at time                 3135
+output will be 0 at time                 3135
+output enable  will be 1 at time                 3135
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3135
+input A will be 2 at time                 3145
+input B will be 3 at time                 3145
+input Enable will be 1 at time                 3145
+output will be 2 at time                 3145
+output enable  will be 1 at time                 3145
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 3145
+input A will be 0 at time                 3155
+input B will be 0 at time                 3155
+input Enable will be 1 at time                 3155
+output will be 5 at time                 3155
+output enable  will be 1 at time                 3155
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 3155
+input A will be 0 at time                 3165
+input B will be 2 at time                 3165
+input Enable will be 1 at time                 3165
+output will be 0 at time                 3165
+output enable  will be 1 at time                 3165
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3165
+input A will be 2 at time                 3175
+input B will be 0 at time                 3175
+input Enable will be 1 at time                 3175
+output will be 2 at time                 3175
+output enable  will be 1 at time                 3175
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3175
+input A will be 1 at time                 3185
+input B will be 2 at time                 3185
+input Enable will be 1 at time                 3185
+output will be 2 at time                 3185
+output enable  will be 1 at time                 3185
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3185
+input A will be 2 at time                 3195
+input B will be 3 at time                 3195
+input Enable will be 1 at time                 3195
+output will be 3 at time                 3195
+output enable  will be 1 at time                 3195
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 3195
+input A will be 2 at time                 3205
+input B will be 0 at time                 3205
+input Enable will be 1 at time                 3205
+output will be 5 at time                 3205
+output enable  will be 1 at time                 3205
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 3205
+input A will be 1 at time                 3215
+input B will be 3 at time                 3215
+input Enable will be 1 at time                 3215
+output will be 2 at time                 3215
+output enable  will be 1 at time                 3215
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3215
+input A will be 3 at time                 3225
+input B will be 0 at time                 3225
+input Enable will be 1 at time                 3225
+output will be 4 at time                 3225
+output enable  will be 1 at time                 3225
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3225
+input A will be 2 at time                 3235
+input B will be 1 at time                 3235
+input Enable will be 1 at time                 3235
+output will be 3 at time                 3235
+output enable  will be 1 at time                 3235
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3235
+input A will be 3 at time                 3245
+input B will be 3 at time                 3245
+input Enable will be 1 at time                 3245
+output will be 3 at time                 3245
+output enable  will be 1 at time                 3245
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 3245
+input A will be 1 at time                 3255
+input B will be 0 at time                 3255
+input Enable will be 1 at time                 3255
+output will be 6 at time                 3255
+output enable  will be 1 at time                 3255
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3255
+input A will be 1 at time                 3265
+input B will be 3 at time                 3265
+input Enable will be 1 at time                 3265
+output will be 1 at time                 3265
+output enable  will be 1 at time                 3265
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 3265
+input A will be 3 at time                 3275
+input B will be 3 at time                 3275
+input Enable will be 1 at time                 3275
+output will be 4 at time                 3275
+output enable  will be 1 at time                 3275
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3275
+input A will be 0 at time                 3285
+input B will be 1 at time                 3285
+input Enable will be 1 at time                 3285
+output will be 6 at time                 3285
+output enable  will be 1 at time                 3285
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3285
+input A will be 2 at time                 3295
+input B will be 0 at time                 3295
+input Enable will be 1 at time                 3295
+output will be 1 at time                 3295
+output enable  will be 1 at time                 3295
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 3295
+input A will be 3 at time                 3305
+input B will be 2 at time                 3305
+input Enable will be 1 at time                 3305
+output will be 2 at time                 3305
+output enable  will be 1 at time                 3305
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3305
+input A will be 2 at time                 3315
+input B will be 1 at time                 3315
+input Enable will be 1 at time                 3315
+output will be 5 at time                 3315
+output enable  will be 1 at time                 3315
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 3315
+input A will be 0 at time                 3325
+input B will be 2 at time                 3325
+input Enable will be 1 at time                 3325
+output will be 3 at time                 3325
+output enable  will be 1 at time                 3325
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 3325
+input A will be 2 at time                 3335
+input B will be 0 at time                 3335
+input Enable will be 1 at time                 3335
+output will be 2 at time                 3335
+output enable  will be 1 at time                 3335
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3335
+input A will be 2 at time                 3345
+input B will be 0 at time                 3345
+input Enable will be 1 at time                 3345
+output will be 2 at time                 3345
+output enable  will be 1 at time                 3345
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3345
+input A will be 1 at time                 3355
+input B will be 3 at time                 3355
+input Enable will be 1 at time                 3355
+output will be 2 at time                 3355
+output enable  will be 1 at time                 3355
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3355
+input A will be 0 at time                 3365
+input B will be 0 at time                 3365
+input Enable will be 1 at time                 3365
+output will be 4 at time                 3365
+output enable  will be 1 at time                 3365
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3365
+input A will be 3 at time                 3375
+input B will be 1 at time                 3375
+input Enable will be 1 at time                 3375
+output will be 0 at time                 3375
+output enable  will be 1 at time                 3375
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3375
+input A will be 3 at time                 3385
+input B will be 1 at time                 3385
+input Enable will be 1 at time                 3385
+output will be 4 at time                 3385
+output enable  will be 1 at time                 3385
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 3385
+input A will be 1 at time                 3395
+input B will be 3 at time                 3395
+input Enable will be 1 at time                 3395
+output will be 4 at time                 3395
+output enable  will be 1 at time                 3395
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 3395
+input A will be 3 at time                 3405
+input B will be 0 at time                 3405
+input Enable will be 1 at time                 3405
+output will be 4 at time                 3405
+output enable  will be 1 at time                 3405
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3405
+input A will be 3 at time                 3415
+input B will be 2 at time                 3415
+input Enable will be 1 at time                 3415
+output will be 3 at time                 3415
+output enable  will be 1 at time                 3415
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3415
+input A will be 2 at time                 3425
+input B will be 2 at time                 3425
+input Enable will be 1 at time                 3425
+output will be 5 at time                 3425
+output enable  will be 1 at time                 3425
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 3425
+input A will be 1 at time                 3435
+input B will be 3 at time                 3435
+input Enable will be 1 at time                 3435
+output will be 4 at time                 3435
+output enable  will be 1 at time                 3435
+test case passed for A=2, B=2, output is 4 and enable output is 1 at time                 3435
+input A will be 2 at time                 3445
+input B will be 1 at time                 3445
+input Enable will be 1 at time                 3445
+output will be 4 at time                 3445
+output enable  will be 1 at time                 3445
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3445
+input A will be 1 at time                 3455
+input B will be 1 at time                 3455
+input Enable will be 1 at time                 3455
+output will be 3 at time                 3455
+output enable  will be 1 at time                 3455
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 3455
+input A will be 0 at time                 3465
+input B will be 0 at time                 3465
+input Enable will be 1 at time                 3465
+output will be 2 at time                 3465
+output enable  will be 1 at time                 3465
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 3465
+input A will be 0 at time                 3475
+input B will be 2 at time                 3475
+input Enable will be 1 at time                 3475
+output will be 0 at time                 3475
+output enable  will be 1 at time                 3475
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3475
+input A will be 1 at time                 3485
+input B will be 3 at time                 3485
+input Enable will be 1 at time                 3485
+output will be 2 at time                 3485
+output enable  will be 1 at time                 3485
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3485
+input A will be 3 at time                 3495
+input B will be 2 at time                 3495
+input Enable will be 1 at time                 3495
+output will be 4 at time                 3495
+output enable  will be 1 at time                 3495
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3495
+input A will be 1 at time                 3505
+input B will be 2 at time                 3505
+input Enable will be 1 at time                 3505
+output will be 5 at time                 3505
+output enable  will be 1 at time                 3505
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 3505
+input A will be 0 at time                 3515
+input B will be 0 at time                 3515
+input Enable will be 1 at time                 3515
+output will be 3 at time                 3515
+output enable  will be 1 at time                 3515
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 3515
+input A will be 0 at time                 3525
+input B will be 2 at time                 3525
+input Enable will be 1 at time                 3525
+output will be 0 at time                 3525
+output enable  will be 1 at time                 3525
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3525
+input A will be 2 at time                 3535
+input B will be 0 at time                 3535
+input Enable will be 1 at time                 3535
+output will be 2 at time                 3535
+output enable  will be 1 at time                 3535
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3535
+input A will be 1 at time                 3545
+input B will be 2 at time                 3545
+input Enable will be 1 at time                 3545
+output will be 2 at time                 3545
+output enable  will be 1 at time                 3545
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3545
+input A will be 2 at time                 3555
+input B will be 3 at time                 3555
+input Enable will be 1 at time                 3555
+output will be 3 at time                 3555
+output enable  will be 1 at time                 3555
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 3555
+input A will be 3 at time                 3565
+input B will be 3 at time                 3565
+input Enable will be 1 at time                 3565
+output will be 5 at time                 3565
+output enable  will be 1 at time                 3565
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 3565
+input A will be 3 at time                 3575
+input B will be 3 at time                 3575
+input Enable will be 1 at time                 3575
+output will be 6 at time                 3575
+output enable  will be 1 at time                 3575
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3575
+input A will be 0 at time                 3585
+input B will be 2 at time                 3585
+input Enable will be 1 at time                 3585
+output will be 6 at time                 3585
+output enable  will be 1 at time                 3585
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3585
+input A will be 2 at time                 3595
+input B will be 0 at time                 3595
+input Enable will be 1 at time                 3595
+output will be 2 at time                 3595
+output enable  will be 1 at time                 3595
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3595
+input A will be 3 at time                 3605
+input B will be 3 at time                 3605
+input Enable will be 1 at time                 3605
+output will be 2 at time                 3605
+output enable  will be 1 at time                 3605
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3605
+input A will be 0 at time                 3615
+input B will be 0 at time                 3615
+input Enable will be 1 at time                 3615
+output will be 6 at time                 3615
+output enable  will be 1 at time                 3615
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3615
+input A will be 1 at time                 3625
+input B will be 1 at time                 3625
+input Enable will be 1 at time                 3625
+output will be 0 at time                 3625
+output enable  will be 1 at time                 3625
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3625
+input A will be 1 at time                 3635
+input B will be 1 at time                 3635
+input Enable will be 1 at time                 3635
+output will be 2 at time                 3635
+output enable  will be 1 at time                 3635
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 3635
+input A will be 1 at time                 3645
+input B will be 0 at time                 3645
+input Enable will be 1 at time                 3645
+output will be 2 at time                 3645
+output enable  will be 1 at time                 3645
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 3645
+input A will be 2 at time                 3655
+input B will be 0 at time                 3655
+input Enable will be 1 at time                 3655
+output will be 1 at time                 3655
+output enable  will be 1 at time                 3655
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 3655
+input A will be 3 at time                 3665
+input B will be 0 at time                 3665
+input Enable will be 1 at time                 3665
+output will be 2 at time                 3665
+output enable  will be 1 at time                 3665
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3665
+input A will be 3 at time                 3675
+input B will be 2 at time                 3675
+input Enable will be 1 at time                 3675
+output will be 3 at time                 3675
+output enable  will be 1 at time                 3675
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3675
+input A will be 0 at time                 3685
+input B will be 0 at time                 3685
+input Enable will be 1 at time                 3685
+output will be 5 at time                 3685
+output enable  will be 1 at time                 3685
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 3685
+input A will be 0 at time                 3695
+input B will be 0 at time                 3695
+input Enable will be 1 at time                 3695
+output will be 0 at time                 3695
+output enable  will be 1 at time                 3695
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3695
+input A will be 3 at time                 3705
+input B will be 0 at time                 3705
+input Enable will be 1 at time                 3705
+output will be 0 at time                 3705
+output enable  will be 1 at time                 3705
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3705
+input A will be 1 at time                 3715
+input B will be 3 at time                 3715
+input Enable will be 1 at time                 3715
+output will be 3 at time                 3715
+output enable  will be 1 at time                 3715
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3715
+input A will be 0 at time                 3725
+input B will be 3 at time                 3725
+input Enable will be 1 at time                 3725
+output will be 4 at time                 3725
+output enable  will be 1 at time                 3725
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 3725
+input A will be 3 at time                 3735
+input B will be 2 at time                 3735
+input Enable will be 1 at time                 3735
+output will be 3 at time                 3735
+output enable  will be 1 at time                 3735
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 3735
+input A will be 1 at time                 3745
+input B will be 0 at time                 3745
+input Enable will be 1 at time                 3745
+output will be 5 at time                 3745
+output enable  will be 1 at time                 3745
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 3745
+input A will be 3 at time                 3755
+input B will be 1 at time                 3755
+input Enable will be 1 at time                 3755
+output will be 1 at time                 3755
+output enable  will be 1 at time                 3755
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 3755
+input A will be 2 at time                 3765
+input B will be 0 at time                 3765
+input Enable will be 1 at time                 3765
+output will be 4 at time                 3765
+output enable  will be 1 at time                 3765
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 3765
+input A will be 1 at time                 3775
+input B will be 1 at time                 3775
+input Enable will be 1 at time                 3775
+output will be 2 at time                 3775
+output enable  will be 1 at time                 3775
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3775
+input A will be 0 at time                 3785
+input B will be 0 at time                 3785
+input Enable will be 1 at time                 3785
+output will be 2 at time                 3785
+output enable  will be 1 at time                 3785
+test case passed for A=1, B=1, output is 2 and enable output is 1 at time                 3785
+input A will be 0 at time                 3795
+input B will be 0 at time                 3795
+input Enable will be 1 at time                 3795
+output will be 0 at time                 3795
+output enable  will be 1 at time                 3795
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3795
+input A will be 3 at time                 3805
+input B will be 3 at time                 3805
+input Enable will be 1 at time                 3805
+output will be 0 at time                 3805
+output enable  will be 1 at time                 3805
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3805
+input A will be 1 at time                 3815
+input B will be 0 at time                 3815
+input Enable will be 1 at time                 3815
+output will be 6 at time                 3815
+output enable  will be 1 at time                 3815
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3815
+input A will be 0 at time                 3825
+input B will be 3 at time                 3825
+input Enable will be 1 at time                 3825
+output will be 1 at time                 3825
+output enable  will be 1 at time                 3825
+test case passed for A=1, B=0, output is 1 and enable output is 1 at time                 3825
+input A will be 3 at time                 3835
+input B will be 3 at time                 3835
+input Enable will be 1 at time                 3835
+output will be 3 at time                 3835
+output enable  will be 1 at time                 3835
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 3835
+input A will be 3 at time                 3845
+input B will be 0 at time                 3845
+input Enable will be 1 at time                 3845
+output will be 6 at time                 3845
+output enable  will be 1 at time                 3845
+test case passed for A=3, B=3, output is 6 and enable output is 1 at time                 3845
+input A will be 2 at time                 3855
+input B will be 1 at time                 3855
+input Enable will be 1 at time                 3855
+output will be 3 at time                 3855
+output enable  will be 1 at time                 3855
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3855
+input A will be 3 at time                 3865
+input B will be 2 at time                 3865
+input Enable will be 1 at time                 3865
+output will be 3 at time                 3865
+output enable  will be 1 at time                 3865
+test case passed for A=2, B=1, output is 3 and enable output is 1 at time                 3865
+input A will be 2 at time                 3875
+input B will be 3 at time                 3875
+input Enable will be 1 at time                 3875
+output will be 5 at time                 3875
+output enable  will be 1 at time                 3875
+test case passed for A=3, B=2, output is 5 and enable output is 1 at time                 3875
+input A will be 0 at time                 3885
+input B will be 3 at time                 3885
+input Enable will be 1 at time                 3885
+output will be 5 at time                 3885
+output enable  will be 1 at time                 3885
+test case passed for A=2, B=3, output is 5 and enable output is 1 at time                 3885
+input A will be 0 at time                 3895
+input B will be 1 at time                 3895
+input Enable will be 1 at time                 3895
+output will be 3 at time                 3895
+output enable  will be 1 at time                 3895
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 3895
+input A will be 1 at time                 3905
+input B will be 2 at time                 3905
+input Enable will be 1 at time                 3905
+output will be 1 at time                 3905
+output enable  will be 1 at time                 3905
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 3905
+input A will be 0 at time                 3915
+input B will be 2 at time                 3915
+input Enable will be 1 at time                 3915
+output will be 3 at time                 3915
+output enable  will be 1 at time                 3915
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 3915
+input A will be 0 at time                 3925
+input B will be 0 at time                 3925
+input Enable will be 1 at time                 3925
+output will be 2 at time                 3925
+output enable  will be 1 at time                 3925
+test case passed for A=0, B=2, output is 2 and enable output is 1 at time                 3925
+input A will be 3 at time                 3935
+input B will be 0 at time                 3935
+input Enable will be 1 at time                 3935
+output will be 0 at time                 3935
+output enable  will be 1 at time                 3935
+test case passed for A=0, B=0, output is 0 and enable output is 1 at time                 3935
+input A will be 1 at time                 3945
+input B will be 2 at time                 3945
+input Enable will be 1 at time                 3945
+output will be 3 at time                 3945
+output enable  will be 1 at time                 3945
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3945
+input A will be 2 at time                 3955
+input B will be 0 at time                 3955
+input Enable will be 1 at time                 3955
+output will be 3 at time                 3955
+output enable  will be 1 at time                 3955
+test case passed for A=1, B=2, output is 3 and enable output is 1 at time                 3955
+input A will be 3 at time                 3965
+input B will be 0 at time                 3965
+input Enable will be 1 at time                 3965
+output will be 2 at time                 3965
+output enable  will be 1 at time                 3965
+test case passed for A=2, B=0, output is 2 and enable output is 1 at time                 3965
+input A will be 0 at time                 3975
+input B will be 3 at time                 3975
+input Enable will be 1 at time                 3975
+output will be 3 at time                 3975
+output enable  will be 1 at time                 3975
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 3975
+input A will be 0 at time                 3985
+input B will be 1 at time                 3985
+input Enable will be 1 at time                 3985
+output will be 3 at time                 3985
+output enable  will be 1 at time                 3985
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 3985
+input A will be 1 at time                 3995
+input B will be 3 at time                 3995
+input Enable will be 1 at time                 3995
+output will be 1 at time                 3995
+output enable  will be 1 at time                 3995
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 3995
+input A will be 3 at time                 4005
+input B will be 1 at time                 4005
+input Enable will be 1 at time                 4005
+output will be 4 at time                 4005
+output enable  will be 1 at time                 4005
+test case passed for A=1, B=3, output is 4 and enable output is 1 at time                 4005
+input A will be 0 at time                 4015
+input B will be 3 at time                 4015
+input Enable will be 1 at time                 4015
+output will be 4 at time                 4015
+output enable  will be 1 at time                 4015
+test case passed for A=3, B=1, output is 4 and enable output is 1 at time                 4015
+input A will be 3 at time                 4025
+input B will be 0 at time                 4025
+input Enable will be 1 at time                 4025
+output will be 3 at time                 4025
+output enable  will be 1 at time                 4025
+test case passed for A=0, B=3, output is 3 and enable output is 1 at time                 4025
+input A will be 0 at time                 4035
+input B will be 1 at time                 4035
+input Enable will be 1 at time                 4035
+output will be 3 at time                 4035
+output enable  will be 1 at time                 4035
+test case passed for A=3, B=0, output is 3 and enable output is 1 at time                 4035
+input A will be 2 at time                 4045
+input B will be 1 at time                 4045
+input Enable will be 1 at time                 4045
+output will be 1 at time                 4045
+output enable  will be 1 at time                 4045
+test case passed for A=0, B=1, output is 1 and enable output is 1 at time                 4045
+input A will be 1 at time                 4055
+input B will be 1 at time                 4055
+input Enable will be 1 at time                 4055
+output will be 0 at time                 4055
+output enable  will be 0 at time                 4055
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4055
+input A will be 3 at time                 4065
+input B will be 3 at time                 4065
+input Enable will be 1 at time                 4065
+output will be 0 at time                 4065
+output enable  will be 0 at time                 4065
+test case passed for A=1, B=1, output is 0 and enable output is 0 at time                 4065
+input A will be 2 at time                 4075
+input B will be 3 at time                 4075
+input Enable will be 1 at time                 4075
+output will be 0 at time                 4075
+output enable  will be 0 at time                 4075
+test case passed for A=3, B=3, output is 0 and enable output is 0 at time                 4075
+input A will be 0 at time                 4085
+input B will be 1 at time                 4085
+input Enable will be 1 at time                 4085
+output will be 0 at time                 4085
+output enable  will be 0 at time                 4085
+test case passed for A=2, B=3, output is 0 and enable output is 0 at time                 4085
+input A will be 0 at time                 4095
+input B will be 1 at time                 4095
+input Enable will be 1 at time                 4095
+output will be 0 at time                 4095
+output enable  will be 0 at time                 4095
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4095
+input A will be 3 at time                 4105
+input B will be 0 at time                 4105
+input Enable will be 1 at time                 4105
+output will be 0 at time                 4105
+output enable  will be 0 at time                 4105
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4105
+input A will be 0 at time                 4115
+input B will be 2 at time                 4115
+input Enable will be 1 at time                 4115
+output will be 0 at time                 4115
+output enable  will be 0 at time                 4115
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4115
+input A will be 2 at time                 4125
+input B will be 3 at time                 4125
+input Enable will be 1 at time                 4125
+output will be 0 at time                 4125
+output enable  will be 0 at time                 4125
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4125
+input A will be 3 at time                 4135
+input B will be 0 at time                 4135
+input Enable will be 1 at time                 4135
+output will be 0 at time                 4135
+output enable  will be 0 at time                 4135
+test case passed for A=2, B=3, output is 0 and enable output is 0 at time                 4135
+input A will be 2 at time                 4145
+input B will be 3 at time                 4145
+input Enable will be 1 at time                 4145
+output will be 0 at time                 4145
+output enable  will be 0 at time                 4145
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4145
+input A will be 1 at time                 4155
+input B will be 3 at time                 4155
+input Enable will be 1 at time                 4155
+output will be 0 at time                 4155
+output enable  will be 0 at time                 4155
+test case passed for A=2, B=3, output is 0 and enable output is 0 at time                 4155
+input A will be 1 at time                 4165
+input B will be 1 at time                 4165
+input Enable will be 1 at time                 4165
+output will be 0 at time                 4165
+output enable  will be 0 at time                 4165
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4165
+input A will be 0 at time                 4175
+input B will be 2 at time                 4175
+input Enable will be 1 at time                 4175
+output will be 0 at time                 4175
+output enable  will be 0 at time                 4175
+test case passed for A=1, B=1, output is 0 and enable output is 0 at time                 4175
+input A will be 0 at time                 4185
+input B will be 0 at time                 4185
+input Enable will be 1 at time                 4185
+output will be 0 at time                 4185
+output enable  will be 0 at time                 4185
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4185
+input A will be 1 at time                 4195
+input B will be 0 at time                 4195
+input Enable will be 1 at time                 4195
+output will be 0 at time                 4195
+output enable  will be 0 at time                 4195
+test case passed for A=0, B=0, output is 0 and enable output is 0 at time                 4195
+input A will be 0 at time                 4205
+input B will be 3 at time                 4205
+input Enable will be 1 at time                 4205
+output will be 0 at time                 4205
+output enable  will be 0 at time                 4205
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 4205
+input A will be 2 at time                 4215
+input B will be 1 at time                 4215
+input Enable will be 1 at time                 4215
+output will be 0 at time                 4215
+output enable  will be 0 at time                 4215
+test case passed for A=0, B=3, output is 0 and enable output is 0 at time                 4215
+input A will be 2 at time                 4225
+input B will be 2 at time                 4225
+input Enable will be 1 at time                 4225
+output will be 0 at time                 4225
+output enable  will be 0 at time                 4225
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4225
+input A will be 1 at time                 4235
+input B will be 2 at time                 4235
+input Enable will be 1 at time                 4235
+output will be 0 at time                 4235
+output enable  will be 0 at time                 4235
+test case passed for A=2, B=2, output is 0 and enable output is 0 at time                 4235
+input A will be 0 at time                 4245
+input B will be 2 at time                 4245
+input Enable will be 1 at time                 4245
+output will be 0 at time                 4245
+output enable  will be 0 at time                 4245
+test case passed for A=1, B=2, output is 0 and enable output is 0 at time                 4245
+input A will be 2 at time                 4255
+input B will be 3 at time                 4255
+input Enable will be 1 at time                 4255
+output will be 0 at time                 4255
+output enable  will be 0 at time                 4255
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4255
+input A will be 2 at time                 4265
+input B will be 3 at time                 4265
+input Enable will be 1 at time                 4265
+output will be 0 at time                 4265
+output enable  will be 0 at time                 4265
+test case passed for A=2, B=3, output is 0 and enable output is 0 at time                 4265
+input A will be 3 at time                 4275
+input B will be 2 at time                 4275
+input Enable will be 1 at time                 4275
+output will be 0 at time                 4275
+output enable  will be 0 at time                 4275
+test case passed for A=2, B=3, output is 0 and enable output is 0 at time                 4275
+input A will be 0 at time                 4285
+input B will be 1 at time                 4285
+input Enable will be 1 at time                 4285
+output will be 0 at time                 4285
+output enable  will be 0 at time                 4285
+test case passed for A=3, B=2, output is 0 and enable output is 0 at time                 4285
+input A will be 2 at time                 4295
+input B will be 1 at time                 4295
+input Enable will be 1 at time                 4295
+output will be 0 at time                 4295
+output enable  will be 0 at time                 4295
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4295
+input A will be 3 at time                 4305
+input B will be 3 at time                 4305
+input Enable will be 1 at time                 4305
+output will be 0 at time                 4305
+output enable  will be 0 at time                 4305
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4305
+input A will be 1 at time                 4315
+input B will be 0 at time                 4315
+input Enable will be 1 at time                 4315
+output will be 0 at time                 4315
+output enable  will be 0 at time                 4315
+test case passed for A=3, B=3, output is 0 and enable output is 0 at time                 4315
+input A will be 1 at time                 4325
+input B will be 2 at time                 4325
+input Enable will be 1 at time                 4325
+output will be 0 at time                 4325
+output enable  will be 0 at time                 4325
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 4325
+input A will be 0 at time                 4335
+input B will be 1 at time                 4335
+input Enable will be 1 at time                 4335
+output will be 0 at time                 4335
+output enable  will be 0 at time                 4335
+test case passed for A=1, B=2, output is 0 and enable output is 0 at time                 4335
+input A will be 1 at time                 4345
+input B will be 3 at time                 4345
+input Enable will be 1 at time                 4345
+output will be 0 at time                 4345
+output enable  will be 0 at time                 4345
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4345
+input A will be 0 at time                 4355
+input B will be 3 at time                 4355
+input Enable will be 1 at time                 4355
+output will be 0 at time                 4355
+output enable  will be 0 at time                 4355
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4355
+input A will be 3 at time                 4365
+input B will be 1 at time                 4365
+input Enable will be 1 at time                 4365
+output will be 0 at time                 4365
+output enable  will be 0 at time                 4365
+test case passed for A=0, B=3, output is 0 and enable output is 0 at time                 4365
+input A will be 1 at time                 4375
+input B will be 3 at time                 4375
+input Enable will be 1 at time                 4375
+output will be 0 at time                 4375
+output enable  will be 0 at time                 4375
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4375
+input A will be 1 at time                 4385
+input B will be 2 at time                 4385
+input Enable will be 1 at time                 4385
+output will be 0 at time                 4385
+output enable  will be 0 at time                 4385
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4385
+input A will be 3 at time                 4395
+input B will be 0 at time                 4395
+input Enable will be 1 at time                 4395
+output will be 0 at time                 4395
+output enable  will be 0 at time                 4395
+test case passed for A=1, B=2, output is 0 and enable output is 0 at time                 4395
+input A will be 2 at time                 4405
+input B will be 0 at time                 4405
+input Enable will be 1 at time                 4405
+output will be 0 at time                 4405
+output enable  will be 0 at time                 4405
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4405
+input A will be 3 at time                 4415
+input B will be 0 at time                 4415
+input Enable will be 1 at time                 4415
+output will be 0 at time                 4415
+output enable  will be 0 at time                 4415
+test case passed for A=2, B=0, output is 0 and enable output is 0 at time                 4415
+input A will be 3 at time                 4425
+input B will be 2 at time                 4425
+input Enable will be 1 at time                 4425
+output will be 0 at time                 4425
+output enable  will be 0 at time                 4425
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4425
+input A will be 3 at time                 4435
+input B will be 2 at time                 4435
+input Enable will be 1 at time                 4435
+output will be 0 at time                 4435
+output enable  will be 0 at time                 4435
+test case passed for A=3, B=2, output is 0 and enable output is 0 at time                 4435
+input A will be 0 at time                 4445
+input B will be 2 at time                 4445
+input Enable will be 1 at time                 4445
+output will be 0 at time                 4445
+output enable  will be 0 at time                 4445
+test case passed for A=3, B=2, output is 0 and enable output is 0 at time                 4445
+input A will be 0 at time                 4455
+input B will be 3 at time                 4455
+input Enable will be 1 at time                 4455
+output will be 0 at time                 4455
+output enable  will be 0 at time                 4455
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4455
+input A will be 2 at time                 4465
+input B will be 2 at time                 4465
+input Enable will be 1 at time                 4465
+output will be 0 at time                 4465
+output enable  will be 0 at time                 4465
+test case passed for A=0, B=3, output is 0 and enable output is 0 at time                 4465
+input A will be 3 at time                 4475
+input B will be 0 at time                 4475
+input Enable will be 1 at time                 4475
+output will be 0 at time                 4475
+output enable  will be 0 at time                 4475
+test case passed for A=2, B=2, output is 0 and enable output is 0 at time                 4475
+input A will be 3 at time                 4485
+input B will be 0 at time                 4485
+input Enable will be 1 at time                 4485
+output will be 0 at time                 4485
+output enable  will be 0 at time                 4485
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4485
+input A will be 2 at time                 4495
+input B will be 1 at time                 4495
+input Enable will be 1 at time                 4495
+output will be 0 at time                 4495
+output enable  will be 0 at time                 4495
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4495
+input A will be 3 at time                 4505
+input B will be 0 at time                 4505
+input Enable will be 1 at time                 4505
+output will be 0 at time                 4505
+output enable  will be 0 at time                 4505
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4505
+input A will be 0 at time                 4515
+input B will be 1 at time                 4515
+input Enable will be 1 at time                 4515
+output will be 0 at time                 4515
+output enable  will be 0 at time                 4515
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4515
+input A will be 3 at time                 4525
+input B will be 0 at time                 4525
+input Enable will be 1 at time                 4525
+output will be 0 at time                 4525
+output enable  will be 0 at time                 4525
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4525
+input A will be 1 at time                 4535
+input B will be 3 at time                 4535
+input Enable will be 1 at time                 4535
+output will be 0 at time                 4535
+output enable  will be 0 at time                 4535
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4535
+input A will be 1 at time                 4545
+input B will be 3 at time                 4545
+input Enable will be 1 at time                 4545
+output will be 0 at time                 4545
+output enable  will be 0 at time                 4545
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4545
+input A will be 0 at time                 4555
+input B will be 1 at time                 4555
+input Enable will be 1 at time                 4555
+output will be 0 at time                 4555
+output enable  will be 0 at time                 4555
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4555
+input A will be 0 at time                 4565
+input B will be 2 at time                 4565
+input Enable will be 0 at time                 4565
+output will be 0 at time                 4565
+output enable  will be 0 at time                 4565
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4565
+input A will be 3 at time                 4575
+input B will be 1 at time                 4575
+input Enable will be 0 at time                 4575
+output will be 0 at time                 4575
+output enable  will be 0 at time                 4575
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4575
+input A will be 0 at time                 4585
+input B will be 1 at time                 4585
+input Enable will be 0 at time                 4585
+output will be 0 at time                 4585
+output enable  will be 0 at time                 4585
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4585
+input A will be 1 at time                 4595
+input B will be 2 at time                 4595
+input Enable will be 0 at time                 4595
+output will be 0 at time                 4595
+output enable  will be 0 at time                 4595
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4595
+input A will be 1 at time                 4605
+input B will be 3 at time                 4605
+input Enable will be 0 at time                 4605
+output will be 0 at time                 4605
+output enable  will be 0 at time                 4605
+test case passed for A=1, B=2, output is 0 and enable output is 0 at time                 4605
+input A will be 1 at time                 4615
+input B will be 0 at time                 4615
+input Enable will be 0 at time                 4615
+output will be 0 at time                 4615
+output enable  will be 0 at time                 4615
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4615
+input A will be 3 at time                 4625
+input B will be 2 at time                 4625
+input Enable will be 0 at time                 4625
+output will be 0 at time                 4625
+output enable  will be 0 at time                 4625
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 4625
+input A will be 3 at time                 4635
+input B will be 2 at time                 4635
+input Enable will be 0 at time                 4635
+output will be 0 at time                 4635
+output enable  will be 0 at time                 4635
+test case passed for A=3, B=2, output is 0 and enable output is 0 at time                 4635
+input A will be 0 at time                 4645
+input B will be 0 at time                 4645
+input Enable will be 0 at time                 4645
+output will be 0 at time                 4645
+output enable  will be 0 at time                 4645
+test case passed for A=3, B=2, output is 0 and enable output is 0 at time                 4645
+input A will be 2 at time                 4655
+input B will be 2 at time                 4655
+input Enable will be 0 at time                 4655
+output will be 0 at time                 4655
+output enable  will be 0 at time                 4655
+test case passed for A=0, B=0, output is 0 and enable output is 0 at time                 4655
+input A will be 0 at time                 4665
+input B will be 2 at time                 4665
+input Enable will be 0 at time                 4665
+output will be 0 at time                 4665
+output enable  will be 0 at time                 4665
+test case passed for A=2, B=2, output is 0 and enable output is 0 at time                 4665
+input A will be 2 at time                 4675
+input B will be 2 at time                 4675
+input Enable will be 0 at time                 4675
+output will be 0 at time                 4675
+output enable  will be 0 at time                 4675
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4675
+input A will be 1 at time                 4685
+input B will be 3 at time                 4685
+input Enable will be 0 at time                 4685
+output will be 0 at time                 4685
+output enable  will be 0 at time                 4685
+test case passed for A=2, B=2, output is 0 and enable output is 0 at time                 4685
+input A will be 3 at time                 4695
+input B will be 2 at time                 4695
+input Enable will be 0 at time                 4695
+output will be 0 at time                 4695
+output enable  will be 0 at time                 4695
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4695
+input A will be 2 at time                 4705
+input B will be 0 at time                 4705
+input Enable will be 0 at time                 4705
+output will be 0 at time                 4705
+output enable  will be 0 at time                 4705
+test case passed for A=3, B=2, output is 0 and enable output is 0 at time                 4705
+input A will be 1 at time                 4715
+input B will be 3 at time                 4715
+input Enable will be 0 at time                 4715
+output will be 0 at time                 4715
+output enable  will be 0 at time                 4715
+test case passed for A=2, B=0, output is 0 and enable output is 0 at time                 4715
+input A will be 2 at time                 4725
+input B will be 3 at time                 4725
+input Enable will be 0 at time                 4725
+output will be 0 at time                 4725
+output enable  will be 0 at time                 4725
+test case passed for A=1, B=3, output is 0 and enable output is 0 at time                 4725
+input A will be 3 at time                 4735
+input B will be 1 at time                 4735
+input Enable will be 0 at time                 4735
+output will be 0 at time                 4735
+output enable  will be 0 at time                 4735
+test case passed for A=2, B=3, output is 0 and enable output is 0 at time                 4735
+input A will be 2 at time                 4745
+input B will be 2 at time                 4745
+input Enable will be 0 at time                 4745
+output will be 0 at time                 4745
+output enable  will be 0 at time                 4745
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4745
+input A will be 1 at time                 4755
+input B will be 1 at time                 4755
+input Enable will be 0 at time                 4755
+output will be 0 at time                 4755
+output enable  will be 0 at time                 4755
+test case passed for A=2, B=2, output is 0 and enable output is 0 at time                 4755
+input A will be 0 at time                 4765
+input B will be 0 at time                 4765
+input Enable will be 0 at time                 4765
+output will be 0 at time                 4765
+output enable  will be 0 at time                 4765
+test case passed for A=1, B=1, output is 0 and enable output is 0 at time                 4765
+input A will be 0 at time                 4775
+input B will be 2 at time                 4775
+input Enable will be 0 at time                 4775
+output will be 0 at time                 4775
+output enable  will be 0 at time                 4775
+test case passed for A=0, B=0, output is 0 and enable output is 0 at time                 4775
+input A will be 3 at time                 4785
+input B will be 0 at time                 4785
+input Enable will be 0 at time                 4785
+output will be 0 at time                 4785
+output enable  will be 0 at time                 4785
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4785
+input A will be 3 at time                 4795
+input B will be 1 at time                 4795
+input Enable will be 0 at time                 4795
+output will be 0 at time                 4795
+output enable  will be 0 at time                 4795
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4795
+input A will be 0 at time                 4805
+input B will be 1 at time                 4805
+input Enable will be 0 at time                 4805
+output will be 0 at time                 4805
+output enable  will be 0 at time                 4805
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4805
+input A will be 0 at time                 4815
+input B will be 3 at time                 4815
+input Enable will be 0 at time                 4815
+output will be 0 at time                 4815
+output enable  will be 0 at time                 4815
+test case passed for A=0, B=1, output is 0 and enable output is 0 at time                 4815
+input A will be 3 at time                 4825
+input B will be 0 at time                 4825
+input Enable will be 0 at time                 4825
+output will be 0 at time                 4825
+output enable  will be 0 at time                 4825
+test case passed for A=0, B=3, output is 0 and enable output is 0 at time                 4825
+input A will be 3 at time                 4835
+input B will be 3 at time                 4835
+input Enable will be 0 at time                 4835
+output will be 0 at time                 4835
+output enable  will be 0 at time                 4835
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4835
+input A will be 3 at time                 4845
+input B will be 3 at time                 4845
+input Enable will be 0 at time                 4845
+output will be 0 at time                 4845
+output enable  will be 0 at time                 4845
+test case passed for A=3, B=3, output is 0 and enable output is 0 at time                 4845
+input A will be 0 at time                 4855
+input B will be 3 at time                 4855
+input Enable will be 0 at time                 4855
+output will be 0 at time                 4855
+output enable  will be 0 at time                 4855
+test case passed for A=3, B=3, output is 0 and enable output is 0 at time                 4855
+input A will be 2 at time                 4865
+input B will be 1 at time                 4865
+input Enable will be 0 at time                 4865
+output will be 0 at time                 4865
+output enable  will be 0 at time                 4865
+test case passed for A=0, B=3, output is 0 and enable output is 0 at time                 4865
+input A will be 2 at time                 4875
+input B will be 2 at time                 4875
+input Enable will be 0 at time                 4875
+output will be 0 at time                 4875
+output enable  will be 0 at time                 4875
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4875
+input A will be 0 at time                 4885
+input B will be 2 at time                 4885
+input Enable will be 0 at time                 4885
+output will be 0 at time                 4885
+output enable  will be 0 at time                 4885
+test case passed for A=2, B=2, output is 0 and enable output is 0 at time                 4885
+input A will be 1 at time                 4895
+input B will be 2 at time                 4895
+input Enable will be 0 at time                 4895
+output will be 0 at time                 4895
+output enable  will be 0 at time                 4895
+test case passed for A=0, B=2, output is 0 and enable output is 0 at time                 4895
+input A will be 1 at time                 4905
+input B will be 2 at time                 4905
+input Enable will be 0 at time                 4905
+output will be 0 at time                 4905
+output enable  will be 0 at time                 4905
+test case passed for A=1, B=2, output is 0 and enable output is 0 at time                 4905
+input A will be 2 at time                 4915
+input B will be 1 at time                 4915
+input Enable will be 0 at time                 4915
+output will be 0 at time                 4915
+output enable  will be 0 at time                 4915
+test case passed for A=1, B=2, output is 0 and enable output is 0 at time                 4915
+input A will be 3 at time                 4925
+input B will be 1 at time                 4925
+input Enable will be 0 at time                 4925
+output will be 0 at time                 4925
+output enable  will be 0 at time                 4925
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4925
+input A will be 3 at time                 4935
+input B will be 0 at time                 4935
+input Enable will be 0 at time                 4935
+output will be 0 at time                 4935
+output enable  will be 0 at time                 4935
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4935
+input A will be 3 at time                 4945
+input B will be 1 at time                 4945
+input Enable will be 0 at time                 4945
+output will be 0 at time                 4945
+output enable  will be 0 at time                 4945
+test case passed for A=3, B=0, output is 0 and enable output is 0 at time                 4945
+input A will be 1 at time                 4955
+input B will be 0 at time                 4955
+input Enable will be 0 at time                 4955
+output will be 0 at time                 4955
+output enable  will be 0 at time                 4955
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4955
+input A will be 2 at time                 4965
+input B will be 1 at time                 4965
+input Enable will be 0 at time                 4965
+output will be 0 at time                 4965
+output enable  will be 0 at time                 4965
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 4965
+input A will be 3 at time                 4975
+input B will be 1 at time                 4975
+input Enable will be 0 at time                 4975
+output will be 0 at time                 4975
+output enable  will be 0 at time                 4975
+test case passed for A=2, B=1, output is 0 and enable output is 0 at time                 4975
+input A will be 0 at time                 4985
+input B will be 3 at time                 4985
+input Enable will be 0 at time                 4985
+output will be 0 at time                 4985
+output enable  will be 0 at time                 4985
+test case passed for A=3, B=1, output is 0 and enable output is 0 at time                 4985
+input A will be 1 at time                 4995
+input B will be 0 at time                 4995
+input Enable will be 0 at time                 4995
+output will be 0 at time                 4995
+output enable  will be 0 at time                 4995
+test case passed for A=0, B=3, output is 0 and enable output is 0 at time                 4995
+input A will be 0 at time                 5005
+input B will be 1 at time                 5005
+input Enable will be 0 at time                 5005
+output will be 0 at time                 5005
+output enable  will be 0 at time                 5005
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 5005
+input A will be 2 at time                 5015
+input B will be 2 at time                 5015
+input Enable will be 0 at time                 5015
+output will be 0 at time                 5015
+output enable  will be 0 at time                 5015
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 5015
+input A will be 2 at time                 5025
+input B will be 2 at time                 5025
+input Enable will be 0 at time                 5025
+output will be 0 at time                 5025
+output enable  will be 0 at time                 5025
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 5025
+input A will be 2 at time                 5035
+input B will be 2 at time                 5035
+input Enable will be 0 at time                 5035
+output will be 0 at time                 5035
+output enable  will be 0 at time                 5035
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 5035
+input A will be 2 at time                 5045
+input B will be 2 at time                 5045
+input Enable will be 0 at time                 5045
+output will be 0 at time                 5045
+output enable  will be 0 at time                 5045
+test case passed for A=1, B=0, output is 0 and enable output is 0 at time                 5045
+$finish called from file "simple_adder_directtb_driver.sv", line 74.
+$finish at simulation time                 5045
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5045
+CPU Time:      0.290 seconds;       Data structure size:   0.0Mb
+Fri Mar 15 13:49:38 2024

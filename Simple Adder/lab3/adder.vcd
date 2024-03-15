@@ -1,0 +1,181 @@
+$date
+	Fri Mar 15 13:49:38 2024
+$end
+
+$version
+	Synopsys VCS version V-2023.12
+$end
+
+$timescale
+	1s
+$end
+
+$comment Csum: 1 5a873b6eeb40095f $end
+
+
+$scope module top $end
+
+$scope module U1 $end
+$var reg 1 ! flag $end
+$var reg 1 " flag2 $end
+$var reg 2 # A_val [0:1] $end
+$var reg 2 $ B_val [0:1] $end
+
+$scope begin unnamed$$_vcs_9 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_7 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_8 $end
+
+$scope fork unnamed$$_vcs_0 $end
+
+$scope begin unnamed$$_vcs_1 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_2 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_3 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_4 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_5 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_6 $end
+$upscope $end
+
+$upscope $end
+
+$upscope $end
+
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#4545
+$dumpvars
+0!
+0"
+b01 #
+b11 $
+$end
+#4555
+b00 #
+b01 $
+#4565
+b10 $
+#4575
+b11 #
+b01 $
+#4585
+b00 #
+#4595
+b01 #
+b10 $
+#4605
+b11 $
+#4615
+b00 $
+#4625
+b11 #
+b10 $
+#4645
+b00 #
+b00 $
+#4655
+b10 #
+b10 $
+#4665
+b00 #
+#4675
+b10 #
+#4685
+b01 #
+b11 $
+#4695
+b11 #
+b10 $
+#4705
+b10 #
+b00 $
+#4715
+b01 #
+b11 $
+#4725
+b10 #
+#4735
+b11 #
+b01 $
+#4745
+b10 #
+b10 $
+#4755
+b01 #
+b01 $
+#4765
+b00 #
+b00 $
+#4775
+b10 $
+#4785
+b11 #
+b00 $
+#4795
+b01 $
+#4805
+b00 #
+#4815
+b11 $
+#4825
+b11 #
+b00 $
+#4835
+b11 $
+#4855
+b00 #
+#4865
+b10 #
+b01 $
+#4875
+b10 $
+#4885
+b00 #
+#4895
+b01 #
+#4915
+b10 #
+b01 $
+#4925
+b11 #
+#4935
+b00 $
+#4945
+b01 $
+#4955
+b01 #
+b00 $
+#4965
+b10 #
+b01 $
+#4975
+b11 #
+#4985
+b00 #
+b11 $
+#4995
+b01 #
+b00 $
