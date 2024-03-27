@@ -1,0 +1,2669 @@
+Info: [VCS_SAVE_RESTORE_INFO] ASLR (Address Space Layout Randomization) is detected on the machine. To enable $save functionality, ASLR will be switched off and simv re-executed.
+Please use '-no_save' simv switch to avoid re-execution or '-suppress=ASLR_DETECTED_INFO' to suppress this message.
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version V-2023.12; Runtime version V-2023.12;  Mar 26 01:54 2024
+
+ VCS Coverage Metrics Release V-2023.12 Copyright (c) 1991-2023 by Synopsys Inc.
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=0, rst=0, ina=3, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=1, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=2, inb=0
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=0
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=0, inb=2
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at generator==========================
+======================transaction inputs at time 0==============================
+en_i=1, rst=0, ina=1, inb=2
+======================transaction outputs at time 0==============================
+en_o=x, out=x
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 25==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 25==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 25==============================
+en_i=x, rst=x, ina=x, inb=x
+======================transaction outputs at time 25==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 25==============================
+en_i=x, rst=x, ina=x, inb=x
+======================transaction outputs at time 25==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 55==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 55==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 55==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 55==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 55==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 55==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 85==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 85==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 85==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 85==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 85==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 85==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 115==============================
+en_i=0, rst=0, ina=3, inb=1
+======================transaction outputs at time 115==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 115==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 115==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 115==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 115==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 145==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 145==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 145==============================
+en_i=0, rst=0, ina=3, inb=1
+======================transaction outputs at time 145==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 145==============================
+en_i=0, rst=0, ina=3, inb=1
+======================transaction outputs at time 145==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 175==============================
+en_i=1, rst=0, ina=1, inb=1
+======================transaction outputs at time 175==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 175==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 175==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 175==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 175==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 205==============================
+en_i=1, rst=0, ina=2, inb=0
+======================transaction outputs at time 205==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 205==============================
+en_i=1, rst=0, ina=1, inb=1
+======================transaction outputs at time 205==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 205==============================
+en_i=1, rst=0, ina=1, inb=1
+======================transaction outputs at time 205==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 235==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 235==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 235==============================
+en_i=1, rst=0, ina=2, inb=0
+======================transaction outputs at time 235==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 235==============================
+en_i=1, rst=0, ina=2, inb=0
+======================transaction outputs at time 235==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 265==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 265==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 265==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 265==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 265==============================
+en_i=1, rst=0, ina=3, inb=2
+======================transaction outputs at time 265==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 295==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 295==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 295==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 295==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 295==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 295==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 325==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 325==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 325==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 325==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 325==============================
+en_i=1, rst=0, ina=2, inb=1
+======================transaction outputs at time 325==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 355==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 355==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 355==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 355==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 355==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 355==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 385==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 385==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 385==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 385==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 385==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 385==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 415==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 415==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 415==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 415==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 415==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 415==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 445==============================
+en_i=0, rst=1, ina=3, inb=2
+======================transaction outputs at time 445==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 445==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 445==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 445==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 445==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 475==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 475==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 475==============================
+en_i=0, rst=1, ina=3, inb=2
+======================transaction outputs at time 475==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 475==============================
+en_i=0, rst=1, ina=3, inb=2
+======================transaction outputs at time 475==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 505==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 505==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 505==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 505==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 505==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 505==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 535==============================
+en_i=0, rst=1, ina=0, inb=0
+======================transaction outputs at time 535==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 535==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 535==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 535==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 535==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 565==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 565==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 565==============================
+en_i=0, rst=1, ina=0, inb=0
+======================transaction outputs at time 565==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 565==============================
+en_i=0, rst=1, ina=0, inb=0
+======================transaction outputs at time 565==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 595==============================
+en_i=1, rst=1, ina=1, inb=3
+======================transaction outputs at time 595==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 595==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 595==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 595==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 595==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 625==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 625==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 625==============================
+en_i=1, rst=1, ina=1, inb=3
+======================transaction outputs at time 625==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 625==============================
+en_i=1, rst=1, ina=1, inb=3
+======================transaction outputs at time 625==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 655==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 655==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 655==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 655==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 655==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 655==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 685==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 685==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 685==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 685==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 685==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 685==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 715==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 715==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 715==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 715==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 715==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 715==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 745==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 745==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 745==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 745==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 745==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 745==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 775==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 775==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 775==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 775==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 775==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 775==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 805==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 805==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 805==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 805==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 805==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 805==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 835==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 835==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 835==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 835==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 835==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 835==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 865==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 865==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 865==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 865==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 865==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 865==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 895==============================
+en_i=0, rst=1, ina=2, inb=2
+======================transaction outputs at time 895==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 895==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 895==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 895==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 895==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 925==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 925==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 925==============================
+en_i=0, rst=1, ina=2, inb=2
+======================transaction outputs at time 925==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 925==============================
+en_i=0, rst=1, ina=2, inb=2
+======================transaction outputs at time 925==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 955==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 955==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 955==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 955==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 955==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 955==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 985==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 985==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 985==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 985==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 985==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 985==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1015==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 1015==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1015==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1015==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1015==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1015==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1045==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1045==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1045==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 1045==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1045==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 1045==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1075==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1075==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1075==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1075==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1075==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1075==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1105==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1105==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1105==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1105==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1105==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1105==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1135==============================
+en_i=0, rst=1, ina=2, inb=0
+======================transaction outputs at time 1135==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1135==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1135==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1135==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1135==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1165==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 1165==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1165==============================
+en_i=0, rst=1, ina=2, inb=0
+======================transaction outputs at time 1165==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1165==============================
+en_i=0, rst=1, ina=2, inb=0
+======================transaction outputs at time 1165==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1195==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 1195==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1195==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 1195==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1195==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 1195==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1225==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 1225==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1225==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 1225==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1225==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 1225==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1255==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1255==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1255==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 1255==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1255==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 1255==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1285==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1285==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1285==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1285==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1285==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1285==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1315==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1315==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1315==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1315==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1315==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1315==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1345==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 1345==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1345==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1345==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1345==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1345==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1375==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1375==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1375==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 1375==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1375==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 1375==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1405==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 1405==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1405==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1405==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1405==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1405==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1435==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1435==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1435==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 1435==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1435==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 1435==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1465==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1465==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1465==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1465==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1465==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1465==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1495==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1495==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1495==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1495==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1495==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1495==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1525==============================
+en_i=0, rst=1, ina=1, inb=0
+======================transaction outputs at time 1525==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1525==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1525==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1525==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1525==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1555==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1555==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1555==============================
+en_i=0, rst=1, ina=1, inb=0
+======================transaction outputs at time 1555==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1555==============================
+en_i=0, rst=1, ina=1, inb=0
+======================transaction outputs at time 1555==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1585==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1585==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1585==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1585==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1585==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 1585==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1615==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 1615==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1615==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1615==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1615==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 1615==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1645==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1645==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1645==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 1645==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1645==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 1645==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1675==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 1675==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1675==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1675==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1675==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1675==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1705==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 1705==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1705==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 1705==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1705==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 1705==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1735==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1735==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1735==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 1735==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1735==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 1735==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1765==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 1765==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1765==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1765==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1765==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1765==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1795==============================
+en_i=1, rst=1, ina=1, inb=3
+======================transaction outputs at time 1795==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1795==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 1795==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1795==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 1795==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1825==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1825==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1825==============================
+en_i=1, rst=1, ina=1, inb=3
+======================transaction outputs at time 1825==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1825==============================
+en_i=1, rst=1, ina=1, inb=3
+======================transaction outputs at time 1825==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1855==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1855==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1855==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1855==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1855==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1855==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1885==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1885==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1885==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1885==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1885==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 1885==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1915==============================
+en_i=0, rst=1, ina=3, inb=3
+======================transaction outputs at time 1915==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1915==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1915==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1915==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 1915==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1945==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1945==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1945==============================
+en_i=0, rst=1, ina=3, inb=3
+======================transaction outputs at time 1945==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1945==============================
+en_i=0, rst=1, ina=3, inb=3
+======================transaction outputs at time 1945==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 1975==============================
+en_i=0, rst=1, ina=2, inb=1
+======================transaction outputs at time 1975==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 1975==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1975==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 1975==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 1975==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2005==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 2005==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2005==============================
+en_i=0, rst=1, ina=2, inb=1
+======================transaction outputs at time 2005==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2005==============================
+en_i=0, rst=1, ina=2, inb=1
+======================transaction outputs at time 2005==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2035==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 2035==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2035==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 2035==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2035==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 2035==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2065==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 2065==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2065==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 2065==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2065==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 2065==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2095==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2095==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2095==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 2095==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2095==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 2095==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2125==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 2125==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2125==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2125==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2125==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2125==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2155==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2155==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2155==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 2155==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2155==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 2155==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2185==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 2185==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2185==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2185==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2185==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2185==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2215==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2215==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2215==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 2215==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2215==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 2215==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2245==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2245==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2245==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2245==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2245==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2245==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2275==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 2275==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2275==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2275==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2275==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 2275==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2305==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2305==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2305==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 2305==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2305==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 2305==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2335==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2335==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2335==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2335==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2335==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2335==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2365==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 2365==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2365==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2365==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2365==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2365==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2395==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2395==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2395==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 2395==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2395==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 2395==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2425==============================
+en_i=0, rst=1, ina=1, inb=3
+======================transaction outputs at time 2425==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2425==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2425==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2425==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2425==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2455==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 2455==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2455==============================
+en_i=0, rst=1, ina=1, inb=3
+======================transaction outputs at time 2455==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2455==============================
+en_i=0, rst=1, ina=1, inb=3
+======================transaction outputs at time 2455==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2485==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2485==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2485==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 2485==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2485==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 2485==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2515==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 2515==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2515==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2515==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2515==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2515==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2545==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 2545==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2545==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 2545==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2545==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 2545==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2575==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2575==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2575==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 2575==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2575==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 2575==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2605==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2605==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2605==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2605==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2605==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2605==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2635==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 2635==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2635==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2635==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2635==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2635==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2665==============================
+en_i=0, rst=1, ina=0, inb=3
+======================transaction outputs at time 2665==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2665==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 2665==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2665==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 2665==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2695==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2695==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2695==============================
+en_i=0, rst=1, ina=0, inb=3
+======================transaction outputs at time 2695==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2695==============================
+en_i=0, rst=1, ina=0, inb=3
+======================transaction outputs at time 2695==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2725==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2725==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2725==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2725==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2725==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2725==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2755==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2755==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2755==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2755==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2755==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2755==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2785==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 2785==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2785==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2785==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2785==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 2785==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2815==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 2815==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2815==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 2815==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2815==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 2815==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2845==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2845==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2845==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 2845==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2845==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 2845==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2875==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2875==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2875==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2875==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2875==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2875==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2905==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 2905==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2905==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2905==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2905==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2905==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2935==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2935==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2935==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 2935==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2935==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 2935==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2965==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2965==============================
+en_o=1, out=6
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2965==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2965==============================
+en_o=1, out=6
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2965==============================
+en_i=1, rst=1, ina=3, inb=3
+======================transaction outputs at time 2965==============================
+en_o=1, out=6
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 2995==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 2995==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 2995==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2995==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 2995==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 2995==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3025==============================
+en_i=0, rst=1, ina=0, inb=0
+======================transaction outputs at time 3025==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3025==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 3025==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3025==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 3025==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3055==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3055==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3055==============================
+en_i=0, rst=1, ina=0, inb=0
+======================transaction outputs at time 3055==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3055==============================
+en_i=0, rst=1, ina=0, inb=0
+======================transaction outputs at time 3055==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3085==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 3085==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3085==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3085==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3085==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3085==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3115==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 3115==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3115==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 3115==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3115==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 3115==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3145==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3145==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3145==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 3145==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3145==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 3145==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3175==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 3175==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3175==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3175==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3175==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3175==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3205==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 3205==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3205==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 3205==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3205==============================
+en_i=1, rst=1, ina=3, inb=0
+======================transaction outputs at time 3205==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3235==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 3235==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3235==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 3235==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3235==============================
+en_i=1, rst=1, ina=0, inb=2
+======================transaction outputs at time 3235==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3265==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 3265==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3265==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 3265==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3265==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 3265==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3295==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 3295==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3295==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 3295==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3295==============================
+en_i=1, rst=1, ina=2, inb=2
+======================transaction outputs at time 3295==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3325==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 3325==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3325==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 3325==============================
+en_o=0, out=0
+Error: "scoreboard.svh", 17: adder_pkg::\scoreboard::main : at time 3325
+Actual value not equal Expected value and output must be 3
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3325==============================
+en_i=1, rst=1, ina=2, inb=1
+======================transaction outputs at time 3325==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3355==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 3355==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3355==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 3355==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3355==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 3355==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3385==============================
+en_i=1, rst=0, ina=3, inb=0
+======================transaction outputs at time 3385==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3385==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 3385==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3385==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 3385==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3415==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 3415==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3415==============================
+en_i=1, rst=0, ina=3, inb=0
+======================transaction outputs at time 3415==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3415==============================
+en_i=1, rst=0, ina=3, inb=0
+======================transaction outputs at time 3415==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3445==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 3445==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3445==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 3445==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3445==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 3445==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3475==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 3475==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3475==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 3475==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3475==============================
+en_i=1, rst=0, ina=1, inb=0
+======================transaction outputs at time 3475==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3505==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 3505==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3505==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 3505==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3505==============================
+en_i=1, rst=0, ina=1, inb=3
+======================transaction outputs at time 3505==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3535==============================
+en_i=1, rst=0, ina=0, inb=2
+======================transaction outputs at time 3535==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3535==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 3535==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3535==============================
+en_i=1, rst=0, ina=3, inb=1
+======================transaction outputs at time 3535==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3565==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 3565==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3565==============================
+en_i=1, rst=0, ina=0, inb=2
+======================transaction outputs at time 3565==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3565==============================
+en_i=1, rst=0, ina=0, inb=2
+======================transaction outputs at time 3565==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3595==============================
+en_i=1, rst=0, ina=1, inb=2
+======================transaction outputs at time 3595==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3595==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 3595==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3595==============================
+en_i=1, rst=0, ina=3, inb=3
+======================transaction outputs at time 3595==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3625==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 3625==============================
+en_o=0, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3625==============================
+en_i=1, rst=0, ina=1, inb=2
+======================transaction outputs at time 3625==============================
+en_o=0, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3625==============================
+en_i=1, rst=0, ina=1, inb=2
+======================transaction outputs at time 3625==============================
+en_o=0, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3655==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 3655==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3655==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 3655==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3655==============================
+en_i=1, rst=1, ina=3, inb=2
+======================transaction outputs at time 3655==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3685==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 3685==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3685==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 3685==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3685==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 3685==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3715==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 3715==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3715==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 3715==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3715==============================
+en_i=1, rst=1, ina=1, inb=1
+======================transaction outputs at time 3715==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3745==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 3745==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3745==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 3745==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3745==============================
+en_i=1, rst=1, ina=1, inb=2
+======================transaction outputs at time 3745==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3775==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3775==============================
+en_o=1, out=2
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3775==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 3775==============================
+en_o=1, out=2
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3775==============================
+en_i=1, rst=1, ina=2, inb=0
+======================transaction outputs at time 3775==============================
+en_o=1, out=2
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3805==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3805==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3805==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3805==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3805==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3805==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3835==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 3835==============================
+en_o=1, out=5
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3835==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3835==============================
+en_o=1, out=5
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3835==============================
+en_i=1, rst=1, ina=2, inb=3
+======================transaction outputs at time 3835==============================
+en_o=1, out=5
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3865==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3865==============================
+en_o=1, out=0
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3865==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 3865==============================
+en_o=1, out=0
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3865==============================
+en_i=1, rst=1, ina=0, inb=0
+======================transaction outputs at time 3865==============================
+en_o=1, out=0
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3895==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 3895==============================
+en_o=1, out=4
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3895==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3895==============================
+en_o=1, out=4
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3895==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3895==============================
+en_o=1, out=4
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3925==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 3925==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3925==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 3925==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3925==============================
+en_i=1, rst=1, ina=1, inb=0
+======================transaction outputs at time 3925==============================
+en_o=1, out=1
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3955==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 3955==============================
+en_o=1, out=3
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3955==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 3955==============================
+en_o=1, out=3
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3955==============================
+en_i=1, rst=1, ina=0, inb=3
+======================transaction outputs at time 3955==============================
+en_o=1, out=3
+====================================================
+======================transaction information at driver==========================
+======================transaction inputs at time 3985==============================
+en_i=1, rst=1, ina=3, inb=1
+======================transaction outputs at time 3985==============================
+en_o=1, out=1
+====================================================
+======================transaction information at monitor==========================
+======================transaction inputs at time 3985==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 3985==============================
+en_o=1, out=1
+Actual value is equal Expected value
+====================================================
+======================transaction information at scoreboard==========================
+======================transaction inputs at time 3985==============================
+en_i=1, rst=1, ina=0, inb=1
+======================transaction outputs at time 3985==============================
+en_o=1, out=1
+cycles of testbench finished @3995
+$finish called from file "tbench_top.sv", line 19.
+$finish at simulation time                 3995
+
+---------------------------------------------------------------------------
+VCS Coverage Metrics: during simulation line, cond, FSM, branch, tgl was monitored
+---------------------------------------------------------------------------
+
+ Coverage status: End of All Coverages ...
+
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 3995
+CPU Time:      0.390 seconds;       Data structure size:   0.0Mb
+Tue Mar 26 01:56:16 2024
